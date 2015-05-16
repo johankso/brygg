@@ -1,0 +1,49 @@
+Bryggelogg. 
+Tre Ingeniører og En Sykepleier
+
+Bryggnavn: Balkong
+Dato: 16.05.2015
+Sted: Klæbuveien 157
+Utstyr:
+	- Hyttekjele
+	- Gjæringskar
+	- Analogt termometer
+	- Gjærlås
+	- Vørterkjøler
+	- Analog tetthetsmåler
+Vær: Overskya, men fint
+Temperatur i rommet: 19,5 grader
+
+Oppkoking av vann: Hyttekjelen ble brukt til dette, på en induksjonsovn. De ferromagnetiske egenskapene til kjelen ble kartlagt og funnet tilfredsstillende dagen før, ved hjelp av en vanlig kjøleskapsmagnet. 15 liter vann ble målt opp med en kasserolle med måleskala på innsiden. 
+Etter 0 minutter: 4 grader rett fra springen.
+Etter 9 minutter: 37,5 grader.
+Etter 15 minutter: 54 grader. 
+Etter 21 minutter: 71,5 grader.
+Etter 25 minutter: 82 grader.
+Etter 28 minutter: 89,5 grader.
+Satt til side etter 29 minutter til fordel for matlaging.
+
+Nå har det begynt å regne. 
+
+Bryggingen ble startet etter halvannen times pause. Oppkok av vann igangsatt.
+
+Etter 0 minutter: 78 grader.
+
+Etter vannet ble satt på oppkok igjen, ble det gjort en vesentlig observasjon i fellesskap: ingen visste hvordan krystallmalt skulle brukes. En rask kikk på internettlinken angående temaet allerede tilgjengelig på GitHub-repoet gjorde saken så mye lettere. En ny og mindre kjele ble satt i sving, og en ekstra humlepose gjorde nytten som meskepose. Dette ble deretter satt på manuell mesk med nøyaktig og kontinuerlig justering av induksjonseffekt, ved 60-70 grader i 15 minutter. Væsken ble smakt på, og det ble konkludert med at det kan fungere fint som te. Både Knut og Johan kunne drukket det som te. 
+
+Bitterhumlen ble målt opp og plassert i humlepose. Spraymalten ble helt direkte i kokekjelen.
+
+Det var fotballkamp på Lerkendal, så det var mange som gikk forbi bryggeriet da vørteren kokte opp. 
+
+Det ble bestemt å bruke saften fra en og en halv (store) lime, og skrellet fra to. Det er ikke enighet i litteraturen om emnet hva som er rett mengde. 
+
+Knut og Johan tilsatte aromahumlen 5 minutter før tiden, i stedet for limen. Denne ble fjernet så snart det ble oppdaget, dvs. 30 sek etter tilsetting. Hvordan dette vil påvirke aromaen er uvisst.
+
+Etter noen få øyeblikk med gjærrehydrerings- og vørternedkjølingspanikk, ble følgende utført mellom 45 og 50 minutters koketid:
+
+- Gjæren ble rehydrert i ca. 100ml væske bestående av en blading av (i) 100grader varm vørter og (ii) kaldt vann fra springen. Dette ble gjort etter 1-2min StarSan-behandling. Infeksjonsrisikoen i denne prosessen ble vurdert neglisjerbar. 
+- Humleposene ble fjernet fra vørteren. Vørterkjøleren ble plassert i kjelen, og et kraftig oppkok gjennomført for å sterilisere kjøleren. 
+
+Etter ca. 13 min kjøling ble vørteren tilsatt bryggekaret. Første OG ble målt til 1072. Dette resulterte i forhøyalkoholprosentspanikk. Oppkok av uttynningsvann ble iverksatt. Ca 1,25 liter kokende vann ble tilsatt vørteren for å redusere tettheten. Etter tilsetting av oppkokt vann ved overføring av vørter til gjæringskar, fikk vi redusert OG til 1.062. 
+
+Gjæringskaret ble båret ned i boden. Der ble temperaturen målt til 10 grader, noe som er litt kaldt. Karet ble deretter båret opp i trappeoppgangen der temperaturen ble målt til 15 grader, som er ideellt. Det antas at temperaturen i trappeoppgangen vil variere en del, med været. Plasseringen av karet her forutsetter god overvåkning av romtemperaturen. 
