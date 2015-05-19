@@ -1,0 +1,167 @@
+body {
+color: white;
+font-family: "Tahoma", "Verdana", Sans Serif;
+text-align: center;
+margin:0px;
+font-size:10pt;
+background: black url('img/background.jpg') no-repeat center top fixed;
+-moz-background-size: cover;
+-webkit-background-size: cover;
+-ms-background-size: cover;
+background-size: cover;
+box-sizing: content-box;
+}
+
+p{
+margin-top: 0.8em;
+margin-bottom:0.8em;
+}
+
+h3{
+font-size: 10pt;
+margin-top:0.2em;
+margin-bottom:0.2em;
+}
+
+a {
+color: white;
+text-decoration: none;
+font-weight: bold;
+}
+
+a:hover {
+text-decoration: underline;
+}
+
+#headerlogo {
+position: center;
+margin-top: 5vh;
+}
+
+#menu {
+background-color: black;
+padding: 5px;
+margin: auto;
+position:fixed;
+bottom:0;
+text-transform: uppercase;
+font-weight: normal;
+font-size: 10pt;
+text-align:center;
+width:100%;
+}
+
+#menuelement{
+margin-right: 1em;
+font-weight: normal;
+}
+
+#menuelement.picked{
+font-weight:bold;
+}
+
+#infobox{
+padding-top:0.8em;
+padding-left:1.2em;
+padding-right:1.2em;
+padding-bottom:0.8em;
+text-align: left;
+background-color: rgba(0,0,0,0.5);
+width: 80vw;
+min-width: 200px;
+max-width: 600px;
+position:relative;
+top:5vh;
+margin-left: auto;
+margin-right:auto;
+margin-top:0.3em;
+}
+
+#folkbox{
+width: 90%;
+min-width: 200px;
+max-width: 600px;
+position:relative;
+top:5vh;
+margin-left: auto;
+margin-right:auto;
+margin-top:0.5em;
+}
+
+#folkbox img:hover{
+opacity: 1;
+}
+
+#folkbox img.selected{
+opacity: 1;
+}
+
+#folkbox img{
+max-width:21%;
+max-height:21%;
+opacity: 0.5;
+}
+
+#photobox{
+position:relative;
+top: 5vh;
+margin: auto;
+}
+
+.fadein {
+opacity:0;
+-moz-transition: opacity 2s; /* Firefox 4 */
+-webkit-transition: opacity 2s; /* Safari and Chrome */
+-o-transition: opacity 2s;
+transition: opacity 2s;}
+
+.photo{
+max-height: 50vh;
+max-width: 80vw;
+}
+
+#arrows{
+padding: 25px;
+max-width: 200px;
+position:center;
+margin:auto;
+}
+
+.arrow{
+width: 10%;
+}
+
+.invert {
+  -webkit-transition: all 0.5s ease;
+     -moz-transition: all 0.5s ease;
+       -o-transition: all 0.5s ease;
+      -ms-transition: all 0.5s ease;
+          transition: all 0.5s ease;
+}
+.invert:hover {
+-webkit-filter: invert(50%);
+-moz-filter: invert(50%);
+-o-filter: invert(50%);
+-ms-filter: invert(50%);
+}
+
+.invert:hover {
+-webkit-filter: invert(50%);
+-moz-filter: invert(50%);
+-o-filter: invert(50%);
+-ms-filter: invert(50%);
+}
+
+.fade{
+   opacity: 0.5;
+   transition: opacity 0.5s ease;
+   -moz-transition: opacity 0.5s ease;
+   -webkit-transition: opacity 0.5s ease;
+    -o-transition: opacity 0.5s ease;
+	-ms-transition: opacity 0.5s ease;
+	transition: opacity 0.5s ease;
+   }
+
+.fade:hover {
+      opacity: 1;
+      }
