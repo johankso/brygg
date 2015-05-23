@@ -59,3 +59,6 @@ Det ble observert at pluppefrekvensen har gått meget ned. Etter omtrent ett min
 
 20.05.2015
 Romtemperatur ble målt til 16,5 grader, dvs. noe varmere enn før. Det plupper enda saktere, omtrent ett plupp per minutt. 
+
+23.05.2015
+Romtemperaturen har, pga. været, sunket litt, og ble denne gangen målt til 14 grader. Det er likevel veldig nær optimal temperatur. Pluppingen avtar fortsatt; det ble observert omtrent ett plupp per ett og et halvt minutt. Lukten er fremdeles god, da det lukter fruktig og gjær. 
