@@ -1,10 +1,10 @@
 body {
 color: white;
-font-family: "Tahoma", "Verdana", Sans Serif;
+font-family: 'Open Sans', sans-serif;
 text-align: center;
 margin:0px;
 font-size:10pt;
-background: black url('img/background.jpg') no-repeat center top fixed;
+background: black url('img/bakgrunn.jpg') no-repeat center top fixed;
 -moz-background-size: cover;
 -webkit-background-size: cover;
 -ms-background-size: cover;
@@ -18,88 +18,94 @@ margin-bottom:0.8em;
 }
 
 h3{
-font-size: 10pt;
+font-size: 12pt;
 margin-top:0.2em;
-margin-bottom:0.2em;
+margin-bottom:0em;
 }
 
 a {
 color: white;
 text-decoration: none;
-font-weight: bold;
+font-weight: normal;
 }
+
+a.inline{
+font-weight:bold}
 
 a:hover {
 text-decoration: underline;
 }
 
-#headerlogo {
-position: center;
-margin-top: 5vh;
+#logo {
+width:250px;
 }
 
-#menu {
-background-color: black;
-padding: 5px;
-margin: auto;
-position:fixed;
-bottom:0;
-text-transform: uppercase;
-font-weight: normal;
-font-size: 10pt;
-text-align:center;
+.menu {
 width:100%;
-}
-
-#menuelement{
-margin-right: 1em;
+margin-top:22px;
+margin-right:50px;
+position:relative;
+text-align:center;
 font-weight: normal;
+font-size: 12pt;
 }
 
-#menuelement.picked{
+.menuelement{
+margin-left: 1em;
+}
+
+#picked{
 font-weight:bold;
 }
 
-#infobox{
+.infobox{
 padding-top:0.8em;
 padding-left:1.2em;
 padding-right:1.2em;
 padding-bottom:0.8em;
 text-align: left;
 background-color: rgba(0,0,0,0.5);
-width: 80vw;
-min-width: 200px;
+width: 75vw;
+min-width: 150px;
 max-width: 600px;
 position:relative;
 top:5vh;
 margin-left: auto;
 margin-right:auto;
-margin-top:0.3em;
+margin-top:2em;
+}
+
+.ollogo{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 100%;
+max-width: 250px;
+}
+
+
+.logo{
+width: 20vw;
+min-width: 200px;
+max-width: 800px;
+position:relative;
+margin-left: auto;
+margin-right:auto;
+margin-top:auto;
+margin-bottom:auto;
 }
 
 #folkbox{
-width: 90%;
-min-width: 200px;
-max-width: 600px;
-position:relative;
-top:5vh;
+width:100%;
+display: block;
 margin-left: auto;
-margin-right:auto;
-margin-top:0.5em;
+margin-right: auto;
+position:relative;
+
 }
 
-#folkbox img:hover{
-opacity: 1;
-}
-
-#folkbox img.selected{
-opacity: 1;
-}
-
-#folkbox img{
-max-width:21%;
-max-height:21%;
-opacity: 0.5;
+.folk{
+width:140px
 }
 
 #photobox{
