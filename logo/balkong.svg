@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="400"
+   height="64"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="balkong.svg"
+   inkscape:export-filename="C:\GitHub\brygg\logo\balkong.png"
+   inkscape:export-xdpi="56.25"
+   inkscape:export-ydpi="56.25">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.90509668"
+     inkscape:cx="295.14829"
+     inkscape:cy="-149.56757"
+     inkscape:document-units="px"
+     inkscape:current-layer="g3784"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     inkscape:window-x="1912"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-3.5714287,-300.64791)">
+    <g
+       id="g3008"
+       transform="translate(-2.1428572,-56.428572)" />
+    <g
+       transform="translate(-2.1428572,43.571428)"
+       id="g3784">
+      <rect
+         style="fill:#8ce68c;fill-opacity:1;stroke:none"
+         id="rect3786"
+         width="400"
+         height="64"
+         x="5.7142859"
+         y="257.07648" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3788"
+         y="307.52664"
+         x="18.891777"
+         style="font-size:14.2488451px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-opacity:1;font-family:'Champagne &amp; Limousines';-inkscape-font-specification:'Champagne &amp; Limousines'"
+         xml:space="preserve"><tspan
+           style="font-size:50px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-linejoin:bevel;stroke-opacity:1;font-family:basic title font;-inkscape-font-specification:basic title font Ultra-Light"
+           y="307.52664"
+           x="18.891777"
+           sodipodi:role="line"
+           id="tspan3792">BALKONG</tspan></text>
+    </g>
+  </g>
+</svg>
