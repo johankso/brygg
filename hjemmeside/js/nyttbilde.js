@@ -14,7 +14,7 @@ function nyttbilde(d){
 		
 	thisNumTemp=thisNum.toString()
 	
-	thisImage= thisNumTemp.concat(".JPG")
+	thisImage= thisNumTemp.concat(".jpg")
 	
 	thisImage = folder.concat(thisImage)
 	image.src = thisImage
