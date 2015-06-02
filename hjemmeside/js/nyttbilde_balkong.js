@@ -1,4 +1,4 @@
-var folder = "galleri_balkong/"
+var folder = "./galleri_balkong/"
 var totNum = 16
 var thisNum
 var thisImage
