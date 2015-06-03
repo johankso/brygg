@@ -269,7 +269,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284274"
-     inkscape:cx="319.27974"
+     inkscape:cx="266.42351"
      inkscape:cy="140.7247"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -452,7 +452,7 @@
            id="tspan3790"
            x="18.891777"
            y="304.30182"
-           style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:condensed;font-size:50px;font-family:'Tre Ingeniorer og En Sykepleier';-inkscape-font-specification:'Tre Ingeniorer og En Sykepleier Thin Condensed';fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-linejoin:bevel;stroke-opacity:1">Tre IngeniØrer </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:condensed;font-size:50px;font-family:'Tre Ingeniorer og En Sykepleier';-inkscape-font-specification:'Tre Ingeniorer og En Sykepleier Thin Condensed';fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-linejoin:bevel;stroke-opacity:1">Tre IngeniÓrer </tspan><tspan
            id="tspan3792-7"
            sodipodi:role="line"
            x="18.891777"
@@ -599,13 +599,13 @@
     <image
        sodipodi:absref="C:\GitHub\brygg\balkong\etikett\Heidi.tif"
        xlink:href="Heidi.tif"
-       y="91.486305"
-       x="430.68994"
-       id="image3457"
-       style="display:inline;image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
+       width="92.960335"
        height="107.54234"
-       width="92.960335" />
+       preserveAspectRatio="none"
+       style="display:inline;image-rendering:optimizeQuality"
+       id="image3457"
+       x="430.68994"
+       y="91.486305" />
   </g>
   <g
      inkscape:groupmode="layer"
