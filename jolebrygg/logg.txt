@@ -1,12 +1,15 @@
 2015-10-23: Generalprøve (B-1)
 ------------------------------------------
-
+Dagen før bryggingen ble det utført testkoking av vann med selvbygget kokekar i Odins veg 14A. Gjennom testkokingen observerte vi flere svakheter ved prosessen, som var svært verdifulle for videre bruk. Blant annet ble vi gjort bevisste på at stor forsiktighet må utvises ved plassering av kjøler i kokekar, da kranen er delvis sammenkoblet med det noe utsatte dreneringsrøret. I tillegg viste det seg vesentlig for god ventilasjon at den store toppen på kokekaret ble dekket til, slik at dampen ble kontrollert styrt mot ventilatoren.
 
 
 2015-10-24: Bryggedag (B-Day)
 ------------------------------------------
 
 Gjæren ble tatt ut av kjøleskap, og gjærnæringsposen brutt, for aktivering kl 0940.
+
+Den opprinnelige planen om oppstart av oppkok før Johan og Katinka ankom ble omgjort, på grunn av problemer med tetningen mellom kokekarets vegg og kranen, observert kvelden før. Det ble påvist skade på O-ring, og en ny ble hentet fra kranen montert på meskekaret (fortsatt under konstruksjon). 
+
 Oppkok av vann startet 1140 (starttemp. 10 grader). Nådd 100 grader ved 1200. 
 
 Eventualitet numero uno:
@@ -37,6 +40,15 @@ Lukt fra gjærlås: Mildt søtlig og typisk duft fra tidlig i gjæringsfasen.
 
 2015-10-26 (B+2)
 ------------------------------------------
-Temperatur kl. 0830: 13.5 grader. Dette er i kaldeste laget, så vinduet ble lukket straks. Temperaturen steg raskt til over 14 grader.
+0830: 13.5 grader. Dette er i kaldeste laget, så vinduet ble lukket straks. Temperaturen steg raskt til over 14 grader. Vesentlig mye mer aktivitet i gjærlås; de to tvillingene plopper om kapp. Det er god og kraftig duft fra begge gjærlåsene.
+2130: 15.3 grader. Duft i oppganven. Vesentlig kraftigere og noe mer fruktig duft.
 
-Gjærlås: Vesentlig mye mer aktivitet i gjærlås; de to tvillingene plopper om kapp. Det er god og kraftig duft fra begge gjærlåsene.
+2015-10-27 (B+3)
+------------------------------------------
+0830: 15.6 grader. Fortsatt bra aktivitet i gjærlåsene. God og fruktig ølduft. Skumringen er tydelig på plass.
+1810: 15.9 grader. God lukt.
+2353: 15.5 grader.
+
+2015-10-28 (B+4)
+------------------------------------------
+0910: 14.6 grader.
