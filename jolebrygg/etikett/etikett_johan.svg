@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="etikett.svg"
+   sodipodi:docname="etikett_johan.svg"
    inkscape:export-filename="C:\GitHub\brygg\balkong\etikett\etikett_kss.png"
    inkscape:export-xdpi="1200.1056"
    inkscape:export-ydpi="1200.1056">
@@ -134,7 +134,7 @@
      style="display:inline">
     <rect
        transform="scale(-1,1)"
-       style="opacity:1;fill:#00002b;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none"
        id="rect4323"
        width="386"
        height="284"
@@ -527,7 +527,7 @@
        height="284"
        width="181"
        id="rect3133"
-       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#d40000;fill-opacity:1;stroke:none"
        transform="scale(-1,1)" />
     <text
        sodipodi:linespacing="120%"
@@ -594,7 +594,7 @@
        id="rect3420"
        style="fill:#7d7d7d;fill-opacity:1;stroke:none" />
     <rect
-       style="fill:#800000;fill-opacity:1;stroke:none"
+       style="fill:#d40000;fill-opacity:1;stroke:none"
        id="rect3786"
        width="152.08334"
        height="24.333334"
