@@ -1,7 +1,8 @@
 function forstebilde(){
 var image = document.getElementById("gallerifoto")
-totNum=18
-thisNum = Math.ceil(Math.random()* totNum) 
+totNum=76
+//thisNum = Math.ceil(Math.random()* totNum) 
+thisNum = totNum
 var thisImage
 
 thisNumTemp=thisNum.toString()
