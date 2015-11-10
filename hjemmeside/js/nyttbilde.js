@@ -1,5 +1,5 @@
 var folder = "galleri/"
-var totNum = 18
+var totNum = 76
 var thisNum
 var thisImage
 
