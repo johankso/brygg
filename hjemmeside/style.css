@@ -3,13 +3,12 @@ color: white;
 font-family: 'Open Sans', sans-serif;
 text-align: center;
 margin:0px;
-font-size:10pt;
-background: black url('img/bakgrunn.jpg') no-repeat center top fixed;
+font-size:11pt;
+background: url('img/bakgrunn.jpg') no-repeat top center fixed;
 -moz-background-size: cover;
 -webkit-background-size: cover;
 -ms-background-size: cover;
 background-size: cover;
-box-sizing: content-box;
 }
 
 p{
@@ -43,7 +42,6 @@ width:250px;
 .menu {
 width:100%;
 margin-top:22px;
-margin-right:50px;
 position:relative;
 text-align:center;
 font-weight: normal;
@@ -51,38 +49,38 @@ font-size: 12pt;
 }
 
 .menuelement{
-margin-left: 1em;
+margin-left: 0.4em;
+margin-right:0.4em;
 }
 
 #picked{
 font-weight:bold;
 }
 
-.infobox{
+.entry{
 padding-top:0.8em;
 padding-left:1.2em;
 padding-right:1.2em;
 padding-bottom:0.8em;
 text-align: left;
-background-color: rgba(80,80,80,0.75);
-width: 75vw;
-min-width: 150px;
-max-width: 600px;
-position:relative;
+background-color: rgba(0,0,0,0.2);
+width: 74vw;
+min-width: 200px;
 top:5vh;
-margin-left: auto;
-margin-right:auto;
-margin-top:2em;
+position: relative;
+left: 50%;
+margin-right: -50%;
+transform: translate(-50%, 0);
+margin-top: 2em;
+margin-bottom: 2em;
 }
 
 .ollogo{
 display: block;
 margin-left: auto;
 margin-right: auto;
-width: 100%;
 max-width: 250px;
 }
-
 
 .logo{
 width: 20vw;
@@ -95,80 +93,10 @@ margin-top:auto;
 margin-bottom:auto;
 }
 
-#folkbox{
-width:100%;
-display: block;
-margin-left: auto;
-margin-right: auto;
-position:relative;
-
+img.thumbnail{
+max-width:100%;
+min-height:100px;
+height:12vw;
+margin-right: 5px;
+margin-top: 0;
 }
-
-.folk{
-width:140px
-}
-
-#photobox{
-position:relative;
-top: 5vh;
-margin: auto;
-}
-
-
-.fadein {
-opacity:0;
--moz-transition: opacity 2s; /* Firefox 4 */
--webkit-transition: opacity 2s; /* Safari and Chrome */
--o-transition: opacity 2s;
-transition: opacity 2s;}
-
-.photo{
-max-height: 50vh;
-max-width: 80vw;
-}
-
-#arrows{
-padding: 25px;
-max-width: 200px;
-position:center;
-margin:auto;
-}
-
-.arrow{
-width: 10%;
-}
-
-.invert {
-  -webkit-transition: all 0.5s ease;
-     -moz-transition: all 0.5s ease;
-       -o-transition: all 0.5s ease;
-      -ms-transition: all 0.5s ease;
-          transition: all 0.5s ease;
-}
-.invert:hover {
--webkit-filter: invert(50%);
--moz-filter: invert(50%);
--o-filter: invert(50%);
--ms-filter: invert(50%);
-}
-
-.invert:hover {
--webkit-filter: invert(50%);
--moz-filter: invert(50%);
--o-filter: invert(50%);
--ms-filter: invert(50%);
-}
-
-.fade{
-   opacity: 0.5;
-   transition: opacity 0.5s ease;
-   -moz-transition: opacity 0.5s ease;
-   -webkit-transition: opacity 0.5s ease;
-    -o-transition: opacity 0.5s ease;
-	-ms-transition: opacity 0.5s ease;
-	transition: opacity 0.5s ease;
-   }
-
-.fade:hover {
-      opacity: 1;
-      }
