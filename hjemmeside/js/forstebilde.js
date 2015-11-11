@@ -1,3 +1,8 @@
+var folder = "galleri/"
+var totNum = 76
+var thisNum
+var thisImage
+
 function forstebilde(){
 var image = document.getElementById("gallerifoto")
 totNum=76

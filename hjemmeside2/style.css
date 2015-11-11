@@ -3,8 +3,8 @@ color: white;
 font-family: 'Open Sans', sans-serif;
 text-align: center;
 margin:0px;
-font-size:11pt;
-background: url('img/bakgrunn.jpg') no-repeat top center fixed;
+font-size:12pt;
+background: black url('img/bakgrunn.jpg') no-repeat center top fixed;
 -moz-background-size: cover;
 -webkit-background-size: cover;
 -ms-background-size: cover;
@@ -43,6 +43,7 @@ width:250px;
 .menu {
 width:100%;
 margin-top:22px;
+margin-right:50px;
 position:relative;
 text-align:center;
 font-weight: normal;
@@ -64,8 +65,8 @@ padding-right:1.2em;
 padding-bottom:0.8em;
 text-align: left;
 background-color: rgba(0,0,0,0.2);
-width: 74vw;
-min-width: 200px;
+width: 70vw;
+min-width: 80px;
 top:5vh;
 position: relative;
 left: 50%;
@@ -94,9 +95,5 @@ margin-bottom:auto;
 }
 
 img.thumbnail{
-max-width:100%;
-min-height:100px;
-height:12vw;
-margin-right: 5px;
-margin-top: 0;
+height: 10vw;	
 }
