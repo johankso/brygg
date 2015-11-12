@@ -9,7 +9,6 @@ background: url('img/bakgrunn.jpg') no-repeat top center fixed;
 -webkit-background-size: cover;
 -ms-background-size: cover;
 background-size: cover;
-box-sizing: content-box;
 }
 
 p{
@@ -50,7 +49,8 @@ font-size: 12pt;
 }
 
 .menuelement{
-margin-left: 1em;
+margin-left: 0.4em;
+margin-right:0.4em;
 }
 
 #picked{
