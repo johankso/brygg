@@ -66,6 +66,7 @@ text-align: left;
 background-color: rgba(0,0,0,0.2);
 width: 74vw;
 min-width: 200px;
+max-width:1200px;
 top:5vh;
 position: relative;
 left: 50%;
@@ -79,7 +80,8 @@ margin-bottom: 2em;
 display: block;
 margin-left: auto;
 margin-right: auto;
-max-width: 250px;
+max-width:250px;
+width:74vw;
 }
 
 .logo{
@@ -94,9 +96,8 @@ margin-bottom:auto;
 }
 
 img.thumbnail{
-max-width:100%;
 min-height:100px;
 height:12vw;
-margin-right: 5px;
-margin-top: 0;
+margin-right: 3px;
+margin-top: 2px;
 }
