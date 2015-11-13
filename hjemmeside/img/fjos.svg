@@ -13,8 +13,8 @@
    height="65.836838"
    id="svg3080"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="balkong.svg"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="fjos.svg"
    inkscape:export-filename="C:\GitHub\brygg\hjemmeside\img\balkong.png"
    inkscape:export-xdpi="56.047646"
    inkscape:export-ydpi="56.047646">
@@ -28,7 +28,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="257.07371"
+     inkscape:cx="168.43282"
      inkscape:cy="75.000998"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -37,10 +37,10 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1680"
-     inkscape:window-height="987"
-     inkscape:window-x="1912"
-     inkscape:window-y="22"
+     inkscape:window-width="1536"
+     inkscape:window-height="801"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata3085">
@@ -50,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -66,17 +66,25 @@
        height="65.836838"
        x="176.63928"
        y="499.44376" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text3788"
-       y="551.37659"
-       x="188.0043"
-       style="font-size:14.2488451px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-opacity:1;font-family:'Champagne &amp; Limousines';-inkscape-font-specification:'Champagne &amp; Limousines'"
-       xml:space="preserve"><tspan
-         style="font-size:49.87095642px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-linejoin:bevel;stroke-opacity:1;font-family:basic title font;-inkscape-font-specification:basic title font Ultra-Light"
-         y="551.37659"
-         x="188.0043"
-         sodipodi:role="line"
-         id="tspan3792">FJOS</tspan></text>
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:condensed;font-size:14.2488451px;line-height:125%;font-family:'Tre Ingeniorer og En Sykepleier';-inkscape-font-specification:'Tre Ingeniorer og En Sykepleier Thin Condensed';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-opacity:1"
+       id="text3788">
+      <path
+         d="m 207.05501,514.82118 0,0.54858 0,0.39896 -13.16593,0 0,18.85123 10.32328,0 0,0.49871 0,0.4987 -10.27341,-0.0499 -0.0499,15.50987 -0.54858,0 -0.49871,0 0,-35.7076 0,-0.54858 14.21322,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:condensed;font-size:49.87095642px;font-family:'Tre Ingeniorer og En Sykepleier';-inkscape-font-specification:'Tre Ingeniorer og En Sykepleier Thin Condensed';fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-linejoin:bevel;stroke-opacity:1"
+         id="path4137" />
+      <path
+         d="m 218.36325,549.28201 q -0.89768,-0.94755 -1.34652,-2.14445 -0.39897,-1.19691 -0.54858,-2.2442 -0.14961,-1.09716 -0.14961,-1.84522 0.0499,-0.74807 0.0499,-0.84781 l 1.04729,0 q 0,0 0,0.69819 0,0.6982 0.0997,1.69562 0.14961,0.99742 0.49871,2.09458 0.39897,1.09716 1.14703,1.89509 1.546,1.69562 4.43852,1.69562 2.94238,0 4.58813,-1.74549 0.74806,-0.79793 1.09716,-1.74548 0.39896,-0.94755 0.54858,-1.74548 0.14961,-0.84781 0.14961,-1.39639 0,-0.59845 0,-0.59845 l 0,-28.47632 0.54858,0 0.49871,0 0,28.42645 q 0,0.14961 0,0.8478 0,0.64832 -0.19948,1.546 -0.19949,0.89768 -0.64833,1.94497 -0.39896,1.04729 -1.1969,1.94497 -1.84522,2.04471 -5.38606,2.04471 -3.34136,0 -5.23645,-2.04471 z"
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:condensed;font-size:49.87095642px;font-family:'Tre Ingeniorer og En Sykepleier';-inkscape-font-specification:'Tre Ingeniorer og En Sykepleier Thin Condensed';fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-linejoin:bevel;stroke-opacity:1"
+         id="path4139" />
+      <path
+         d="m 255.67373,543.24762 q 0,0.14961 0,0.79794 0,0.64832 -0.19948,1.59587 -0.19948,0.89767 -0.64832,1.94496 -0.39897,1.04729 -1.24678,1.94497 -0.99741,0.99742 -2.84264,1.546 -1.79535,0.49871 -3.49097,0.49871 -1.69561,0 -3.49096,-0.49871 -1.79536,-0.54858 -2.74291,-1.546 -0.8478,-0.89768 -1.29664,-1.99484 -0.39897,-1.09716 -0.54858,-2.04471 -0.14961,-0.99742 -0.14961,-1.69561 0,-0.69819 0,-0.8478 l 0,-20.4471 q 0,-1.99484 0.54858,-3.54083 0.59845,-1.59588 1.84522,-2.69304 0.49871,-0.44884 1.1969,-0.79793 0.74807,-0.3491 1.546,-0.54858 0.79794,-0.24936 1.59587,-0.3491 0.79794,-0.14961 1.49613,-0.14961 0.64833,0 1.44626,0.0997 0.84781,0.0997 1.64574,0.3491 0.84781,0.19948 1.546,0.54858 0.74807,0.29922 1.24678,0.74806 2.54341,2.24419 2.54341,6.33361 l 0,20.74632 z m -1.04729,-20.74632 q 0,-1.74548 -0.4987,-2.99225 -0.44884,-1.24678 -1.19691,-2.09458 -0.49871,-0.49871 -1.24677,-0.84781 -0.69819,-0.39897 -1.49613,-0.64832 -0.74806,-0.24936 -1.546,-0.3491 -0.79794,-0.0997 -1.39639,-0.0997 -1.14703,0 -2.44367,0.29922 -1.24678,0.24936 -2.29407,1.04729 -1.04729,0.74807 -1.74548,2.14446 -0.64832,1.34651 -0.64832,3.54083 l 0,20.49697 q 0,0 -0.0499,0.64832 0,0.59845 0.14961,1.49613 0.14961,0.89767 0.49871,1.89509 0.34909,0.99742 1.09716,1.79536 0.79793,0.8478 2.3938,1.29664 1.59588,0.39897 3.04213,0.39897 0.74807,0 1.546,-0.0997 0.79794,-0.0997 1.546,-0.29923 0.79794,-0.24935 1.44626,-0.54858 0.64832,-0.34909 1.04729,-0.79793 0.74806,-0.79794 1.09716,-1.74549 0.3491,-0.94754 0.49871,-1.74548 0.14961,-0.84781 0.14961,-1.39639 0,-0.59845 0,-0.59845 l 0.0499,-20.79619 z"
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:condensed;font-size:49.87095642px;font-family:'Tre Ingeniorer og En Sykepleier';-inkscape-font-specification:'Tre Ingeniorer og En Sykepleier Thin Condensed';fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-linejoin:bevel;stroke-opacity:1"
+         id="path4141" />
+      <path
+         d="m 265.05571,549.78072 q -1.24678,-1.09716 -1.8951,-2.94239 -0.59845,-1.84523 -0.59845,-3.93981 l 1.04729,0 q 0,2.39381 0.64832,3.88994 0.69819,1.49613 1.69561,2.34393 1.04729,0.79794 2.2442,1.09716 1.1969,0.24936 2.24419,0.24936 1.29664,0 2.54342,-0.3491 1.29664,-0.39896 2.29406,-1.1969 1.04729,-0.84781 1.64574,-2.19432 0.64833,-1.34652 0.64833,-3.29149 0,-2.24419 -0.64833,-3.88993 -0.64832,-1.69561 -1.74548,-2.99226 -1.04729,-1.29664 -2.39381,-2.29406 -1.34651,-1.04729 -2.7429,-2.04471 -1.34651,-0.94755 -2.59329,-1.84523 -1.1969,-0.94754 -2.19432,-2.09458 -2.19432,-2.64316 -2.19432,-5.88477 0,-0.14961 0,-0.74806 0,-0.64833 0.14961,-1.49613 0.19948,-0.84781 0.59845,-1.84523 0.39897,-0.99742 1.24678,-1.84522 1.94496,-2.09458 5.43593,-2.09458 3.54084,0 5.33619,2.09458 0.74807,0.89767 1.04729,1.99484 0.3491,1.04729 0.44884,2.0447 0.0997,0.94755 0.0499,1.64575 0,0.64832 0,0.69819 l -1.04729,0 q 0,0 0,-0.59845 0.0499,-0.59845 -0.0499,-1.49613 -0.0997,-0.89768 -0.39897,-1.84523 -0.24935,-0.99741 -0.89767,-1.74548 -0.74807,-0.84781 -1.84523,-1.29664 -1.09716,-0.44884 -2.64316,-0.44884 -3.04213,0 -4.638,1.74548 -0.69819,0.74807 -1.04729,1.64574 -0.3491,0.89768 -0.49871,1.69561 -0.14961,0.74807 -0.14961,1.29665 0,0.54858 0,0.54858 0,1.64574 0.54858,2.94239 0.54858,1.24677 1.44626,2.34393 0.89767,1.04729 2.04471,1.94497 1.1969,0.89768 2.44367,1.79535 1.44626,0.99742 2.84265,2.09458 1.39638,1.09716 2.54342,2.49355 2.59329,3.19174 2.59329,7.48064 0,4.03955 -2.69304,6.28375 -2.19432,1.79535 -5.4858,1.79535 -1.14703,0 -2.64316,-0.29923 -1.44626,-0.34909 -2.7429,-1.44625 z"
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:condensed;font-size:49.87095642px;font-family:'Tre Ingeniorer og En Sykepleier';-inkscape-font-specification:'Tre Ingeniorer og En Sykepleier Thin Condensed';fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-linejoin:bevel;stroke-opacity:1"
+         id="path4143" />
+    </g>
   </g>
 </svg>
