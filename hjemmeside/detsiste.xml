@@ -110,8 +110,22 @@
 		</image>
 	</entry>
 	
+	<entry>
+			<date>2015-10-28</date>
+			<header>Gjæringsfremdrift, Jolebrygg</header>
+			<text> Gjæringen av Jolebrygg er godt i gang. Det er noen svingninger i temperatur i gangen som følge av varierende temperaturer ute. I dag måtte Brygger Knut legge et pledd over tvillingene før natten.</text>
+			<image>
+				<file>jolebrygg_gjaering-1.jpg</file>
+				<caption>Pledd over gjæringsdunker.</caption>
+			</image>
+			<image>
+				<file>jolebrygg_gjaering-2.jpg</file>
+				<caption>Pledd over gjæringsdunker.</caption>
+			</image>
+	</entry>	
 	
-		<entry>
+
+	<entry>
 		<date>2015-10-24</date>
 		<header>Brygging av Jolebrygg</header>
 		<text>Brygging av Jolebrygg</text>
@@ -182,9 +196,69 @@
 		</entry>	
 
 		<entry>
+		
 		<date>2015-10-23</date>
+		<header>Testkoking med selvbygget kokekar</header>
+		<text>Dagen før bryggingen av Jolebrygg ble det utført testkoking av vann med selvbygget kokekar i Odins veg 14A. Gjennom testkokingen observerte vi flere svakheter ved prosessen, som var svært verdifulle for videre bruk. Blant annet ble vi gjort bevisste på at stor forsiktighet må utvises ved plassering av kjøler i kokekar, da kranen er delvis sammenkoblet med det noe utsatte dreneringsrøret. I tillegg viste det seg vesentlig for god ventilasjon at den store toppen på kokekaret ble dekket til, slik at dampen ble kontrollert styrt mot ventilatoren.</text>
+		<image>
+		<file>galleri\testbrygging-1.jpg</file>
+		<caption>Ødelagt pakning som forårsaket lekkasje ved testkoking.</caption>
+		</image>
+		</entry>
+		
+		
+		<entry>
+		<date>2015-10-22</date>
 		<header>Elektrisk bryggeri</header>
-		<text>Kvålstabø Kjelermakeri (må ikke forveksles med Kvålstabø Kjølermakeri!) ble hyret for produksjon av koke- og meskekar...</text>
+		<text>Kvålstabø Kjelemakeri (må ikke forveksles med Kvålstabø Kjølermakeri!) ble hyret for produksjon av koke- og meskekar. To kasserte varmtvannstanker ble donert fra Ahlsell. Ytterblikk og isolasjon ble fjernet, og ved hjelp av vinkelsliper og Tores kyndige hender ble toppen fjernet, slik at vi satt igjen med to åpne ståltanker. Også hull i den ene tanken ble lappet sammen av Tore. Den påfølgende dagen ble det gjort innkjøp av kraner, diverse rørdeler og analoge termometre, som skulle brukes til koke- og meskekarene. Tore stilte velvillig opp med ekspertise og fri anvendelse av verktøy og rørdeler. For drenering av vørteren til kranen konstruerte vi et kobberrør med hull for plassering på bunnen av kjelene, som førte vørteren til kranen. Videre ble det laget to filtreringssokker av stålduk for montasje over dreneringsrøret. Det ble handlet inn flittig på ebay og Amazon for å muliggjøre elektrisk drift av kjelene, blant annet: elektrisk termostat, PID-regulator, transistorreléer, brytere, varmeelementer. Kokekaret ble midlertidig ferdigstilt for å brukes til brygging av Jolebrygg. Det ble bestemt at dette skulle brukes uten kontrollpanel eller PID-regulator til dette brygget, kun med enkel manuell kontroll (av / på). Begge karene ble også behandlet og grundig vasket med kaustisk soda. Videre arbeid skal trengs på begge karene. </text>
+		<image>
+			<file>galleri\elbrygg-1.jpg</file>
+			<caption>Kappede ståltanker.</caption>
+		</image>
+		<image>
+			<file>galleri\elbrygg-2.jpg</file>
+			<caption>Kappede ståltanker.</caption>
+		</image>
+		<image>
+			<file>galleri\elbrygg-3.jpg</file>
+			<caption>Kappede ståltanker.</caption>
+		</image>
+		<image>
+			<file>galleri\elbrygg-4.jpg</file>
+			<caption>Kappede ståltanker.</caption>
+		</image>
+		<image>
+			<file>galleri\elbrygg-5.jpg</file>
+			<caption>Testing av varmeelement i den ene varmtvannstanken. Det fungerte som det skulle, men effekten viste seg å være for lav.</caption>
+		</image>
+		<image>
+			<file>galleri\elbrygg-6.jpg</file>
+			<caption>Kapping av kobberrør for dreneringsrør.</caption>
+		</image>
+		<image>
+			<file>galleri\elbrygg-7.jpg</file>
+			<caption>Kraner, O-ringer og fittings.</caption>
+		</image>
+		<image>
+			<file>galleri\elbrygg-8.jpg</file>
+			<caption>Ferdig dreneringsrør (før hulling).</caption>
+		</image>
+		<image>
+			<file>galleri\elbrygg-9.jpg</file>
+			<caption>Lodding av dreneringsrør.</caption>
+		</image>
+		<image>
+			<file>galleri\elbrygg-10.jpg</file>
+			<caption>Lodding av dreneringsrør.</caption>
+		</image>
+		<image>
+			<file>galleri\elbrygg-11.jpg</file>
+			<caption>Lodding av dreneringsrør.</caption>
+		</image>
+		<image>
+			<file>galleri\elbrygg-12.png</file>
+			<caption>Koblingsskjema.</caption>
+		</image>
 		</entry>
 		
 		<entry>
@@ -265,7 +339,7 @@
 		<text>Brygger Knut prøvde Fjos til en deilig tacorett for første gang. Det var stor suksess, og det hele måtte dokumenteres.</text>
 		<image>
 			<file>galleri\18.jpg</file>
-			<caption>Fjos og taco</caption>
+			<caption>Taco og Fjos er en god match!</caption>
 		</image>
 		</entry>
 		
@@ -273,18 +347,6 @@
 		<date>2015-01-09</date>
 		<header>Design og påføring av etiketter for ferdigbrygget Fjos</header>
 		<text>Endelig var dagen kommet! Ølet var ferdig gjæret på flasker, og vi kunne smake på herligheten. Etikettdesignet var ikke helt ferdig, så dette måtte ordnes først. Bilder av hver brygger måtte tas (i stuen til Heidi og Knut på Moholt), og plasseres delikat på etiketten. Bryggere Johan og Knut kjørte ned til Gløshaugen for å skrive ut etikettene når de var ferdige. Etter mye klipping kunne etikettene monteres på flaskene ved hjelp av melk.</text>
-		<image>
-			<file>galleri\1.jpg</file>
-			<caption>Johans etikettbilde.</caption>
-		</image>
-		<image>
-			<file>galleri\2.jpg</file>
-			<caption>Katinkas etikettbilde.</caption>
-		</image>
-		<image>
-			<file>galleri\3.jpg</file>
-			<caption>Heidis etikettbilde.</caption>
-		</image>
 		<image>
 			<file>galleri\4.jpg</file>
 			<caption>Katinkas etikett.</caption>
@@ -370,6 +432,14 @@
 	<header>Vørterkjøler</header>
 	<text>Når man lager øl trengs vørter. Vørteren må kokes, men gjæren kan ikke tilsettes før vørteren er kald igjen. Nedkjølingen av kokt vørter bør gå så fort som mulig for å unngå at den eksponeres unødvendig for bakterier som kan infisere ølet. Derfor er en vørterkjøler fryktelig fin å ha når øl skal brygges. Kvålstabø Kjølermakeri er vår rammeleverandør av vørterkjølere. Dokumentasjonen for deres vørterkjøler finner du på GitHub-repoet vårt.
 	</text>
+	<image>
+		<file>galleri\kjoler1.jpg</file>
+		<caption>Testing av vørterkjøler på rotete kjøkkenbenk.</caption>
+	</image>
+	<image>
+		<file>galleri\kjoler2.jpg</file>
+		<caption>Testing av vørterkjøler på rotete kjøkkenbenk.</caption>
+	</image>
 	</entry>
 </entries>
  
