@@ -16,10 +16,9 @@ background-repeat: no-repeat;
 background-position: center top;
 background-attachment: fixed; 
 height:100%;
-min-height:100%;
--webkit-background-size:cover;
--moz-background-size: cover;           /* Gecko 1.9.2 (Firefox 3.6) */
--o-background-size: cover;           /* Opera 9.5 */
+-webkit-background-size:cover;			/* webkit */
+-moz-background-size: cover;           /* Firefox */
+-o-background-size: cover;           /* Opera */
 background-size:cover;
 -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/bakgrunn_jul.svg', sizingMethod='scale')";
 }
@@ -133,6 +132,20 @@ padding-top: 1px;
 	
 	.entry{
 	top:0;
+	}
+	
+}
+
+@media screen and (-webkit-device-pixel-ratio: 2)  {	/* iphone */
+	html{
+		background-size:200% auto;
+	}
+	
+}
+
+@media screen and (-webkit-device-pixel-ratio: 1)  {	/* ipad */
+	html{
+		background-size:100% auto;
 	}
 	
 }
