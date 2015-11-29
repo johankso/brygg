@@ -4,7 +4,7 @@ font-family:'Open Sans', Segoe UI, sans-serif;
 text-align: center;
 margin:0px;
 font-size:11pt;
-background: url('img/bakgrunn.jpg') no-repeat top left fixed;
+background: url('img/bakgrunn_jul.svg') no-repeat top left fixed;
 -moz-background-size: cover;
 -webkit-background-size: cover;
 -ms-background-size: cover;
@@ -104,18 +104,18 @@ box-shadow: 3px 3px 0px 0px rgba(255,255,255,0.75);
 img.thumbnail{
 min-height:100px;
 height:20vh;
-padding-right: 2px;
+padding-right: 5px;
 padding-left:0px;
-padding-top: 2px;
+padding-top: 1px;
 }
 
 @media screen and (max-width: 640px) {
     img.thumbnail {
         min-height:50px;
 		height:12vh;
-		padding-right: 1px;
+		padding-right: 3px;
 		padding-left:0px;
-		padding-top: 1px;
+		padding-top: 0px;
     }
 	
 	.entry{
