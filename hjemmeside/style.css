@@ -15,8 +15,8 @@ background-image: url(img/bakgrunn_jul.svg);
 background-repeat: no-repeat;
 background-position: center top;
 background-attachment: fixed; 
-height:101%;
-min-height:101%;
+height:100%;
+min-height:100%;
 -webkit-background-size:cover;
 -moz-background-size: cover;           /* Gecko 1.9.2 (Firefox 3.6) */
 -o-background-size: cover;           /* Opera 9.5 */
