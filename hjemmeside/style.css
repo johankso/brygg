@@ -11,7 +11,7 @@ font-size:11pt;
 }
 
 html {
-background-image: url(img/bakgrunn_jul.svg);
+background-image: url(img/bakgrunn.jpg);
 background-repeat: no-repeat;
 background-position: center top;
 background-attachment: fixed; 
@@ -20,7 +20,7 @@ height:100%;
 -moz-background-size: cover;           /* Firefox */
 -o-background-size: cover;           /* Opera */
 background-size:cover;
--ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/bakgrunn_jul.svg', sizingMethod='scale')";
+-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/bakgrunn.jpg', sizingMethod='scale')";
 }
 
 p{
