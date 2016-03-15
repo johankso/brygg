@@ -8,3 +8,10 @@ Nedkjølingstid: 22 min (100*C --> 23*C)
 
 Total mengde Hoppla på gjæringsdunk: 53 liter = minst hundre halvlitere :)
 Klokka er 0040. Temperatur på gjesterommet (ølen skal sove og bo her de neste 2 ukene) er nå 16.5*C med åpent vindu og ovn på. Døra til stua har stått litt åpen og det forklarer nok avviket der. God natt!
+
+Tillegg gjort 2016-03-15: 
+Dette ble også testkjøring av nytt kontrollpanel med PID-regulering og nytt meskekar. Alt i alt fungerte det for det meste bra! Kontrollpanelet fungerte perfekt. Meskekaret ble derimot ansett som suboptimalt for formålet, og bryggere/bryggeutstyrleverandører Johan og Knut bestemte seg for å endre på opplegget til neste gang. Litt usikkerhet i måling av OG fra mesking+skylling gjorde at vi bestemte oss for å avslutte skyllingen før alt beregnet skyllevann var brukt opp. I tillegg lå det igjen noe vørter på bunnen av meskekaret. Likevel endte vi opp på en grei OG på 1.062, men i færre liter enn planlagt. Likevel blir det over 100 halvlitere øl av dette, så vi er godt fornøyde. Det er tross alt første gang vi kjører all-grain.
+
+B-day + 1 - 2016-03-15
+---------------------------------------------------
+På morgenen ble det observert temperatur på 14.5 grader, noe som var i god overensstemmelse med ønsket temperatur på 15 grader. Ved nærmere ettertanke virket dette lavt, og en sjekk i oppskriften ble gjort. Der stod det ingenting om 15 grader, så hvor dette tallet kommer fra er uvisst. Den eneste temperaturhenvisningen som er gitt i oppskriften gjelder for temp ved tilsetting av gjær og temp for gjæring etter tørrhumling; primærgjæring antas at skal foregå på samme temperatur som begge disse, nemlig 20 grader. Dette er også i god overensstemmelse med anbefalt temperatur for gjærtypen: 18-21 grader. Termostaten på gjesterommet ble dermed økt betraktelig. Ved hjemkomst fra jobb i 18-tiden, viste termometeret ca. 19 grader. Dette er innenfor anbefalt område, og anses som tilstrekkelig nøyaktig.
