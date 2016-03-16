@@ -15,3 +15,8 @@ Dette ble også testkjøring av nytt kontrollpanel med PID-regulering og nytt me
 B-day + 1 - 2016-03-15
 ---------------------------------------------------
 På morgenen ble det observert temperatur på 14.5 grader, noe som var i god overensstemmelse med ønsket temperatur på 15 grader. Ved nærmere ettertanke virket dette lavt, og en sjekk i oppskriften ble gjort. Der stod det ingenting om 15 grader, så hvor dette tallet kommer fra er uvisst. Den eneste temperaturhenvisningen som er gitt i oppskriften gjelder for temp ved tilsetting av gjær og temp for gjæring etter tørrhumling; primærgjæring antas at skal foregå på samme temperatur som begge disse, nemlig 20 grader. Dette er også i god overensstemmelse med anbefalt temperatur for gjærtypen: 18-21 grader. Termostaten på gjesterommet ble dermed økt betraktelig. Ved hjemkomst fra jobb i 18-tiden, viste termometeret ca. 19 grader. Dette er innenfor anbefalt område, og anses som tilstrekkelig nøyaktig.
+
+2016-03-16
+----------------------------------------------------
+Temperatur på morgenen: 19.6. Bra aktivitet i begge gjærlåser, og svak søtlig lukt.
+
