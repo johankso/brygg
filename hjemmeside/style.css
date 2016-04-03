@@ -13,9 +13,7 @@ font-size:11pt;
 html {
 background-image: url(img/bakgrunn.jpg);
 background-repeat: no-repeat;
-background-position: center top;
-background-attachment: fixed; 
-height:100%;
+background-attachment: fixed;
 -webkit-background-size:cover;			/* webkit */
 -moz-background-size: cover;           /* Firefox */
 -o-background-size: cover;           /* Opera */
@@ -35,12 +33,12 @@ margin-bottom:0em;
 }
 
 a {
-color: white;
 text-decoration: none;
 font-weight: normal;
 }
 
 a.inline{
+color:white;
 font-weight:bold}
 
 a:hover {
@@ -63,6 +61,7 @@ font-size: 12pt;
 .menuelement{
 margin-left: 0.4em;
 margin-right:0.4em;
+color: black;
 }
 
 #picked{
