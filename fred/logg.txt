@@ -1,0 +1,33 @@
+2016-08-27: Bryggedag
+-----------------------------------------------------------------
+
+Initielt strikevann: 41.3l
+Initielt spargevann: 45l
+
+	Antall vannkokere (1.5 l): VII
+	30 liter kaldt vann.
+
+Måltemp på strikevann: 72*C
+Mesketemperatur: 67*C
+Utmesktemperatur: 77 *C
+ 
+Utbedringer i forkant av bryggingen:
+- Byttet ut hullet kobberrør silikonslanger i begge karene (bedre tetthet for å unngå surkling og bedre løsning for næringsmidler).
+- Byttet ut de forniklede kranene med nedovertut med kraner av rustfritt stål og rettfremovertut.
+- På meskekaret har det også blitt montert en falsk bunn som silikonslangen er festet til, for å sile bort malt og korn.
+- På kokekaret er det hjemmelagde bazookafilteret montert over silikonslangen
+- Pumpa er montert på en plate for å unngå at den ligger orientert feil.
+
+Initielt estimat gir at vi må tilsette 15 liter kokende vann til meskekaret med 41+9 (maltens tilnærmede vannvolumekvivalent) for å øke tempen fra 67*C til 77*C. Pga. manglende tredje kar bestemte vi oss får å meske ut vha. varmelementet i meskekaret med kontinuerlig resirkulering for å jevne ut temperature (unngå sviing på elementet) og samtidig starte resirkuleringsprosessen. Supplering med 1.5 l kokende vann fra vannkoker er også et alternativ som vi vurderer fortløpende (da med tilsvarende redusert spargevann). Strikevann på 72 sank fort ned til rundt 65 *C ved tilsetting av malt, så det noteres for fremtiden at strikevannet kan være litt varmere. Ved å tilsette 1.5 l kokende vann, estimerte vi en tempøkning på 1 grad, og vannkokerplanen ble iverksatt. Før vannkokeren ble helt oppi, prøvde vi å sette i gang pumpa for å få opp sirkuleringen. Dette medførte en veldig rask temperaturøkning, og vi nærmet oss faretruende den kritiske 75*C-grensa (73 på det meste). Vi noterer oss at pumpa bør være på tidligere for å holde oppe sirkulasjonen (og notatet til fremtiden om at 72*C varmt strikevann er for kaldt må tas med en klype salt - ved neste brygg anbefales en striketemperatur på 72*C). Det ble utført kontraoperasjon på vannkokerplanen: en liten liter kaldt vann tilsatt meskekaret. 1.5 liter kokende vann ble tilsatt spargevannet for å ta igjen tapt varme. 1.5 liter vann ble kokt opp i vannkoker for eventuell tilsetting i det utmeskende meskekaret, for å aksellerere prosessen. Kontra på vannkokerplan - temperaturen på meskekaret steg til 76 grader før kokeren var ferdig, og varmelementet ble ansett som tilstrekkelig. SG fra striket vørter: 1.060. SG fra vørter som hadde blitt litt sparget: 1.020. SG fra vørter som hadde blitt veldig sparget: 1.000 (vann). Dette ble ansett som bra, da det kan antas at det meste av sukkerstoffet har komt med i vørteren. 
+
+OG før kok: 1.032. Det synes vi er litt lite. En liten stund etterpå tok vi ny OG før kok, og den kom på 1.010. Etter et forsøkseksperiment fant vi ut at OG er svært temperaturavhengig. Derfor må vørteren avkjøles før OG kan måles. I skrivende stund er OG på den samme prøven 1.033. Og nå er den 1.042. Ved måling under avkjølingen av vørteren viste den samme prøven 1.045. Dette var i overensstemmelse med ønsket til bryggerne for SG før kok før bryggestart.
+
+Fylling av kar ble initiert når Sestostermometeret viste 22*C og det analoge termometeret viste 18*C - med et gjennomsnitt på den ønskede temperaturen 20*C.
+
+Ved starten av fyllingen av det andre gjæringskaret fikk pumpa luft. Det var fordi bazooka-filteret var tett, slik at det tømtes for vann så snart enden stakk opp i luft. Hånden til en av bryggerne ble star-san-et, og hånden ble brukt til å flytte bazooka-filteret lenger ned. I tillegg var slangen i klem og ble strupet av kjøleren. 
+
+Starsanet gjær ble pitchet i de to fylte karene; ca 1.3 poser gjær i hver.
+
+Totalt endte vi opp med 26+27 liter fordelt i to gjæringskar. De ble flyttet inn til gjesterommet for gjæring på rundt 20*C (22-23*C som gjæringstemp oppgitt i oppskriften). Initiell romtemperatur var ca 18.5*C, og justeringer på ovnen ble gjort for å nærme seg de ønskede 20*C.
+
+Og bryggefreden senket seg over Trondheim.
