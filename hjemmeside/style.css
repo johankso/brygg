@@ -11,9 +11,10 @@ font-size:11pt;
 }
 
 html {
-background-image: url(img/bakgrunn.jpg);
+background-image: url(img/fred.svg);
 background-repeat: no-repeat;
 background-attachment: fixed;
+background-position: center center,
 -webkit-background-size:cover;			/* webkit */
 -moz-background-size: cover;           /* Firefox */
 -o-background-size: cover;           /* Opera */
