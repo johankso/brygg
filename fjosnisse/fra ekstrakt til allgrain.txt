@@ -16,6 +16,12 @@ Korn:
 
 OG (etter kok): 1.061
 
-Totalt: 1.8 (med væske) + 2 kg (uten væske) ekstrakt, og 13 kg malt i fred (Blonde med dobbelt så mye vann - dvs må antakeligvis ha litt mer enn halvparten) => 8 kg totalt?
+Fjos: 1.8 (med væske) + 2 kg (uten væske) ekstrakt (Fjos) = 3.8 kg
+Konvertering: 1 pound grain = .75 pounds LME = .6 pounds DME. (http://www.homebrewtalk.com/showthread.php?t=128206)
+Fjosnisse: 1.8/0.75 + 2/0.6 = (2.4 + 3.3) kg = 5.7
+
+Pale: 5.7 * 0.8 = 4.6 kg
+Krystall: 5.7 * 0.1 = 0.6 kg
+Choco: 5.7 * 0.1 = 0.6 kg
 
 Mesketemp: 67*C
