@@ -1,3 +1,20 @@
 B-1: 2016-09-24
 -----------------------------------------------------------------
 Det er tid for å brygge årets julebrygg. Denne gangen skal det brygges hjemme hos den tredje ingeniøren og sykepleieren. Ingredienser er handlet inn hos våre lokale kjøpmenn, og kjøkkenet er ryddet og klart.
+
+B-day: 2016-09-25
+-----------------------------------------------------------------
+Original mengde strikevann: 14 liter
+Planlagt mengde spargevann: 12.7 liter
+Mesketemp: 67 grader.
+Ønsket volum før kok: 23 liter
+Ønsket volum etter kok: ~20 liter
+
+14 liter vann ble varmet opp til 80 grader i hyttekjelen og tilsatt meskekaret. Pga. varmetap til stålveggene i meskekaret, viste det seg at dette var under nødvendig for at blandingen av malt og vann skulle havne på 67 grader, som var den ønskede mesketemperaturen. Varmelementet i meskekaret ble heller ikke dekket av malt og vannblandingen, så elektrisk oppvarming var ikke et alternativ. Det ble besluttet å tilsette 3 liter kokende vann for å øke temperaturen, og tilsvarende mengde sparge vann trukket fra igjen ved skyllingen. Dette ga en temperatur på 66 grader, og vi startet klokka for meskingen. Deretter tilstatte vi 3 liter kokende vann til, slik at vi havnet mellom 68 og 69, for å ha litt å gå på mtp. varmetapet. Dermed må spargevannvolumet reduseres med 6 liter til 6.7 liter. Ifølge brewtoad sin meskekalkulator skulle det tilsettes litt over en liter kokende vann for å meske ut vørteren. Dette ble fort konkludert med at måtte være feil, og vi avgjorde at vi måtte satse på varmeelementet for utmeskingen. Dermed måtte volumet økes. Dette ble gjort ved å fylle glassflasker med vann (75 grader) som ble senket ned i meskekaret. Literen med kokende vann planlagt for utmesk ble droppet, og dette ble valgt å tilsette som del av spargingen. Dermed blir endelig spargevannvolum 7.7 liter.Dette fungerte fint. Varmeelementet brukte relativt kort tid på å meske ut. 
+
+Lautering og sparging gikk fint. Kranen måtte strupes for å få ut siste rest i meskekaret, ellers kom det luft i slangen. Det anslås at volum før kok var omtrent 23 L, som planlagt.
+
+OG: 1.061
+Volum etter kok: 17 liter
+
+
