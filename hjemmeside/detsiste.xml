@@ -1,6 +1,61 @@
 ﻿<entries>
 
 <entry>
+<date>2016-09-25</date>
+<header>Brygging av Fjosnisse</header>
+<text> I dag ble årets juleøl satt, i siste liten før jul. Ølet er en allgrain- og julekrydderutgave av brown alen Fjos, som var Tre Ingeniører og En Sykepleiers første øl. </text>
+<image>
+	<file>galleri\fjosnisse-1.jpg</file>
+	<caption>Meskingen er i gang.</caption>
+</image>
+
+<image>
+	<file>galleri\fjosnisse-2.jpg</file>
+	<caption>Tilsetting av varmt vann for å øke temperaturen i meskekaret.</caption>
+</image>
+
+<image>
+	<file>galleri\fjosnisse-3.jpg</file>
+	<caption>Tilsetting av vannfylte ølflasker for å heve vannstanden i meskekaret.</caption>
+</image>
+
+<image>
+	<file>galleri\fjosnisse-4.jpg</file>
+	<caption>Må ikke sløse med dyrebar vørter - alt skal med.</caption>
+</image>
+
+<image>
+	<file>galleri\fjosnisse-5.jpg</file>
+	<caption>Alt.</caption>
+</image>
+
+<image>
+	<file>galleri\fjosnisse-6.jpg</file>
+	<caption>Oppkok av vørter.</caption>
+</image>
+
+<image>
+	<file>galleri\fjosnisse-7.jpg</file>
+	<caption>Oppkok av vørter.</caption>
+</image>
+
+<image>
+	<file>galleri\fjosnisse-8.jpg</file>
+	<caption>Flasker igjen i meskekar etter ferdig mesking.</caption>
+</image>
+
+<image>
+	<file>galleri\fjosnisse-9.jpg</file>
+	<caption>Kjøkken etter brygging.</caption>
+</image>
+
+<image>
+	<file>galleri\fjosnisse-10.jpg</file>
+	<caption>17 liter fremtidig Fjosnisse på gjæringskar.</caption>
+</image>
+</entry>
+
+<entry>
 <date>2016-09-17</date>
 <header>Flasking av Fred</header>
 <text>I går ble 89 flasker Fred flasket med FN-blå korker. FG ble målt til 1.012 (1.008 i oppskrift), noe som vil tilsi en alkoholprosent på ca 5.2% (5.5% i oppskrift). Vi er godt fornøyde med smak, farge og resultat i det hele tatt, gitt at det ble foretatt smaksprøver hvor prøvene var romtempererte og uten kullsyre. Vi tror noen ukers modning på flaske vil gjøre dette til et bra øl.</text>
@@ -431,7 +486,7 @@
 <entry>
 	<date>2015-12-10</date>
 	<header>Juleverksted og Jolebrygglansering</header>
-	<text>2. desember var det klart for juleverksted i Odins veg. Stemninga ble satt med julemusikk, julebakst, julekurvfletting, og godt selskap. Vi utnyttet anledningen til å åpne de første leskende flasker med Jolebrygg. Etter en observasjon gjort om mengden bitterstoffer i ølet, var både Johan og Knut noe forutinntatte i første smaking: julesmakene var litt vanskelige å finne bak humlebitterheten. Ettersom flere flasker har blitt smakt på senere, har alle bryggerne oppdaget flere og flere smaker (kanel, honning, nellik, ingefær, appelsin), og endelig konklusjon er at ølet er en suksess! 
+	<text>2. desember var det klart for juleverksted i Odins veg. Stemninga ble satt med julemusikk, julebakst, julekurvfletting, og godt selskap. Vi utnyttet anledningen til å åpne de første leskende flasker med Jolebrygg. Etter en observasjon gjort om mengden bitterstoffer i ølet, var både Johan og Knut noe forutinntatte i første smaking: julesmakene var litt vanskelige å finne bak humlebitterheten. Ettersom flere flasker har blitt smakt på senere, har alle bryggerne oppdaget flere og flere smaker (kanel, honning, nellik, ingefær, appelsin), og endelig konklusjon er at ølet er en suksess!
 	</text>
 	<image>
 		<file>galleri\jolebrygg-1.jpg</file>
@@ -440,7 +495,7 @@
 	<image>
 		<file>galleri\jolebrygg-2.jpg</file>
 		<caption>Jolebrygg smaker ypperlig sammen med kakemann.</caption>
-	</image>	
+	</image>
 
 </entry>
 
@@ -553,7 +608,7 @@
 			<caption>Juleøl i lang(e) bane(r).</caption>
 		</image>
 	</entry>
-	
+
 	<entry>
 			<date>2015-10-28</date>
 			<header>Gjæringsfremdrift, Jolebrygg</header>
@@ -562,13 +617,13 @@
 				<file>galleri\jolebrygg_gjaering-1.jpg</file>
 				<caption>Pledd lagt over gjæringsdunker.</caption>
 			</image>
-			
+
 			<image>
 				<file>galleri\jolebrygg_gjaering-2.jpg</file>
 				<caption>Pledd lagt over gjæringsdunker.</caption>
 			</image>
-	</entry>	
-	
+	</entry>
+
 
 	<entry>
 		<date>2015-10-24</date>
@@ -633,15 +688,15 @@
 		<image>
 			<file>galleri\49.jpg</file>
 			<caption>Fulle gjæringsdunker.</caption>
-		</image>	
+		</image>
 		<image>
 			<file>galleri\50.jpg</file>
 			<caption>Rayman som pauseunderholdning for jentene.</caption>
 		</image>
-		</entry>	
+		</entry>
 
 		<entry>
-		
+
 		<date>2015-10-23</date>
 		<header>Testkoking med selvbygget kokekar</header>
 		<text>Dagen før bryggingen av Jolebrygg ble det utført testkoking av vann med selvbygget kokekar i Odins veg 14A. Gjennom testkokingen observerte vi flere svakheter ved prosessen, som var svært verdifulle for videre bruk. Blant annet ble vi gjort bevisste på at stor forsiktighet må utvises ved plassering av kjøler i kokekar, da kranen er delvis sammenkoblet med det noe utsatte dreneringsrøret. I tillegg viste det seg vesentlig for god ventilasjon at den store toppen på kokekaret ble dekket til, slik at dampen ble kontrollert styrt mot ventilatoren.</text>
@@ -650,8 +705,8 @@
 		<caption>Ødelagt pakning som forårsaket lekkasje ved testkoking.</caption>
 		</image>
 		</entry>
-		
-		
+
+
 		<entry>
 		<date>2015-10-22</date>
 		<header>Elektrisk bryggeri</header>
@@ -705,7 +760,7 @@
 			<caption>Koblingsskjema.</caption>
 		</image>
 		</entry>
-		
+
 		<entry>
 		<date>2015-05-28</date>
 		<header>Flasking av Balkong</header>
@@ -750,7 +805,7 @@
 			<file>galleri\28.jpg</file>
 			<caption>Veldig fornøyd brygger.</caption>
 		</image>
-		
+
 		<image>
 			<file>galleri\29.jpg</file>
 			<caption>Kapslingsprosess.</caption>
@@ -767,7 +822,7 @@
 			<file>galleri\32.jpg</file>
 			<caption>Prøvesmaking er viktig!</caption>
 		</image>
-		
+
 		<image>
 			<file>galleri\33.jpg</file>
 			<caption>Det smaker virkelig godt med balkong på balkongen!</caption>
@@ -777,7 +832,7 @@
 			<caption>Filosoferende brygger.</caption>
 		</image>
 	</entry>
-	
+
 		<entry>
 		<date>2015-03-14</date>
 		<header>Taco og Fjos</header>
@@ -787,7 +842,7 @@
 			<caption>Taco og Fjos er en god match!</caption>
 		</image>
 		</entry>
-		
+
 		<entry>
 		<date>2015-01-09</date>
 		<header>Design og påføring av etiketter for ferdigbrygget Fjos</header>
@@ -849,7 +904,7 @@
 			<caption>Fin skumtopp</caption>
 		</image>
 		</entry>
-	
+
 	<entry>
 		<date>2014-11-12</date>
 		<header>Flasking av Fjos</header>
@@ -857,18 +912,18 @@
 
 		163 gram Muntons Extra Light DME ble kokt opp med 130 g vann. Dette ble deretter tilsatt dunk #2. Hevert fra dunk #1 til dunk #2. Hevert fra dunk #2 til flasker. Fylte en og en kasse med ølflasker, som deretter ble påmontert orange korker (som lå i StarSan-bad).
 
-		Flaskekassene ble deretter plassert ut i gangen for oppbevaring en ukes tid, i en gjennomsiktig plastpose for å unngå søl ved mulig lekkasje. 
+		Flaskekassene ble deretter plassert ut i gangen for oppbevaring en ukes tid, i en gjennomsiktig plastpose for å unngå søl ved mulig lekkasje.
 		</text>
 	</entry>
-	
+
 		<entry>
 		<date>2014-10-28</date>
 		<header>Brygging av Fjos</header>
-		<text>	Johan og Katinka kom med pizza fra Dolly ti over fem. Da var 15 liter vann kokt opp og plassert i bryggekjelen. Etter oppkok stod kjelen på platen (nivå 1) med lokket på, inntil bryggingen kunne starte. Etter at maten var spist, og motet ladet opp, bar det inn/ut/bort/over på kjøkkenet. Maltekstrakt og spraymalt ble løst opp i to løse kasseroller, før den oppløste malten ble tilsatt bryggekjelen. På denne måten hadde vi kontroll på totalt volum i bryggekjelen. 2 liter vann ble fjernet fra bryggekjelen, for å forsikre oss om at det ikke ble for stor totalmengde vørter i kjelen. Etter all malt var tilsatt, ble siste nødvendige vannmengde tilsatt kjelen. Det er mulig noe vann fordampet underveis, spesielt da vannet stod og holdt varmen før bryggestart. 
-		
+		<text>	Johan og Katinka kom med pizza fra Dolly ti over fem. Da var 15 liter vann kokt opp og plassert i bryggekjelen. Etter oppkok stod kjelen på platen (nivå 1) med lokket på, inntil bryggingen kunne starte. Etter at maten var spist, og motet ladet opp, bar det inn/ut/bort/over på kjøkkenet. Maltekstrakt og spraymalt ble løst opp i to løse kasseroller, før den oppløste malten ble tilsatt bryggekjelen. På denne måten hadde vi kontroll på totalt volum i bryggekjelen. 2 liter vann ble fjernet fra bryggekjelen, for å forsikre oss om at det ikke ble for stor totalmengde vørter i kjelen. Etter all malt var tilsatt, ble siste nødvendige vannmengde tilsatt kjelen. Det er mulig noe vann fordampet underveis, spesielt da vannet stod og holdt varmen før bryggestart.
+
 		Kjøleprosessen ble avsluttet etter 15 minutter, da vørteren holdt 20 grader. StarSan  ble sprayet inn i krantuten til bryggekjelen, og tapping av vørter til gjæringsdunken ble startet. En liten slant ble også overført til målesylinder, for måling av OG. Når nivået var tilstrekkelig lavt i kjelen, tettet humlesedimenter kranåpningen. Resten av vørteren ble derfor helt over kjelekanten gjennom en sil (gikk først gjennom StarSan-behandling).
 
-		OG ble målt til 1.078, noe som var vesentlig over planlagt OG (1.060). Volumet i gjæringsdunken var også 16 l, så en mulig forklaring på dette er at mer vann en planlagt har fordampet i kokingen. Som en nødløsning for å unngå for høyt sukkerinnhold, ble 1.5 liter kokt opp og tilsatt vørteren. Dette ga ny OG på 1.065. Temperaturøkningen i gjæringsdunken dette medførte til ble ikke målt, men vurdert som uproblematisk for gjæren. Gjærpakningen ble deretter StarSan-behandlet, åpnet og innholdet tilsatt gjæringsdunken.  
+		OG ble målt til 1.078, noe som var vesentlig over planlagt OG (1.060). Volumet i gjæringsdunken var også 16 l, så en mulig forklaring på dette er at mer vann en planlagt har fordampet i kokingen. Som en nødløsning for å unngå for høyt sukkerinnhold, ble 1.5 liter kokt opp og tilsatt vørteren. Dette ga ny OG på 1.065. Temperaturøkningen i gjæringsdunken dette medførte til ble ikke målt, men vurdert som uproblematisk for gjæren. Gjærpakningen ble deretter StarSan-behandlet, åpnet og innholdet tilsatt gjæringsdunken.
 		</text>
 	</entry>
 
@@ -887,4 +942,3 @@
 	</image>
 	</entry>
 </entries>
- 
