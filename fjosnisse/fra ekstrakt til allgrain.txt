@@ -24,4 +24,7 @@ Pale: 5.7 * 0.8 = 4.6 kg
 Krystall: 5.7 * 0.1 = 0.6 kg
 Choco: 5.7 * 0.1 = 0.6 kg
 
+I følge brewtoad trengs
+4.5, 0.5 og 0.5 for 18.93 l batch, så går for det.
+
 Mesketemp: 67*C
