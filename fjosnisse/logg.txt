@@ -17,4 +17,10 @@ Lautering og sparging gikk fint. Kranen måtte strupes for å få ut siste rest 
 OG: 1.061
 Volum etter kok: 17 liter
 
+B+1: 2016-09-26
+-----------------------------------------------------------------
+Det plupper, temp ca 17.5*C.
 
+B+2: 2016-09-27
+-----------------------------------------------------------------
+Det plupper, temp ca 15.5*C. Tiltak for å stabilisere temperaturen vurderes.
