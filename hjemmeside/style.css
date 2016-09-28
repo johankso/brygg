@@ -15,7 +15,7 @@ background-color: #ffe8d8;
 background-image: url(img/fred.svg);
 background-repeat: no-repeat;
 background-attachment: fixed;
-background-position: center center,
+background-position: center center;
 -webkit-background-size:cover;			/* webkit */
 -moz-background-size: cover;           /* Firefox */
 -o-background-size: cover;           /* Opera */
