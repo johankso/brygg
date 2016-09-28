@@ -124,6 +124,10 @@ padding-top: 1px;
 	top:0;
 	}
 
+	html {
+		background-size: 200% auto;
+	}
+
 }
 
 @media screen and (-webkit-device-pixel-ratio: 2)  {
