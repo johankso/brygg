@@ -2,48 +2,453 @@
 	"http://www.w3.org/TR/html4/strict.dtd">
 
 <html>
+
 <head>
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<meta http-equiv="content-type" content="text/html;charset=utf8" >
-<link rel="stylesheet" type="text/css" href="style.css">
-<link rel="stylesheet" type="text/css" href="lightbox.css">
-<title>Tre Ingeniører og En Sykepleier</title>
-<script src="js\generateEntries.js"></script>
- <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+	<meta http-equiv="content-type" content="text/html;charset=utf8">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="lightbox.css">
+	<title>Tre Ingeniører og En Sykepleier</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 </head>
 
 <!-- Her kommer innholdet!-->
 
+<body>
+	<div>
+		<img id="logo" src="img\logo.png" alt="">
+	</div>
 
-<body onload="generateEntries('detsiste.xml');">
+	<div class="menu">
+		<a class="menuelement" href="index.html">Bryggeriet</a>
+		<a id="picked" class="menuelement" href="detsiste.html">Det siste</a>
+		<a class="menuelement" href="olet.html">Ølet</a>
+	</div>
 
-<div>
-<img id="logo" src="img\logo.png" alt="">
-</div>
 
-<div class="menu">
-<a class="menuelement" href="index.html">Bryggeriet</a>
-<a  id="picked" class="menuelement" href="detsiste.html">Det siste</a>
-<a class="menuelement" href="olet.html">Ølet</a>
-</div>
+	<div id="entries">
 
-<div id="entries">
-	<!---<div class='entry'>
-		<h3>Det siste</h3>
-		Publisert 2015-01-01
-		<p>Det siste inneholder bilder og tekst som forteller historier fra bryggerilivet. </p>
-		<a href='galleri/54.jpg' data-lightbox='start' data-title=''><img class='thumbnail' src='galleri/54.jpg'/></a>
-		<a href='galleri/55.jpg' data-lightbox='start' data-title=''><img class='thumbnail' src='galleri/55.jpg'/></a>
-		<a href='galleri/56.jpg' data-lightbox='start' data-title=''><img class='thumbnail' src='galleri/56.jpg'/></a>
-		<a href='galleri/57.jpg' data-lightbox='start' data-title=''><img class='thumbnail' src='galleri/57.jpg'/></a>
-		<a href='galleri/65.jpg' data-lightbox='start' data-title=''><img class='thumbnail' src='galleri/65.jpg'/></a>
-		<a href='galleri/70.jpg' data-lightbox='start' data-title=''><img class='thumbnail' src='galleri/70.jpg'/></a>
-		<a href='galleri/15.jpg' data-lightbox='start' data-title=''><img class='thumbnail' src='galleri/15.jpg'/></a>
-		<a href='galleri/23.jpg' data-lightbox='start' data-title=''><img class='thumbnail' src='galleri/23.jpg'/></a>
-		<a href='galleri/28.jpg' data-lightbox='start' data-title=''><img class='thumbnail' src='galleri/28.jpg'/></a>
-	</div>-->
-</div>
+		<div class="entry">
+			<h3>Brygging av Åpål</h3>
+			Publisert 2016-09-28
 
-<script src="js\lightbox-plus-jquery.min.js"></script>
+			<p>Og der var Tre Ingeniører og En Sykepleier også ciderbryggere. 30 kg epler fra Kirkestuen i Gvarv var utgangspunktet, 19.5 liter eplemost klar til gjæring resultatet. Nå venter noen uker med spent venting.</p>
+				<a href="./galleri/apal-1.jpg" data-lightbox="set0" data-title="Knut er i gang med eplerasping."><img class="thumbnail" src="./galleri/apal-1.jpg"></a>
+				<a href="./galleri/apal-2.jpg" data-lightbox="set0" data-title="Ferdigkuttede Gvarv-epler."><img class="thumbnail" src="./galleri/apal-2.jpg"></a>
+				<a href="./galleri/apal-3.jpg" data-lightbox="set0" data-title="Første forsøk på pressing."><img class="thumbnail" src="./galleri/apal-3.jpg"></a>
+				<a href="./galleri/apal-4.jpg" data-lightbox="set0" data-title="Stabling for pressing."><img class="thumbnail" src="./galleri/apal-4.jpg"></a>
+				<a href="./galleri/apal-5.jpg" data-lightbox="set0" data-title="Mangler bare jekken."><img class="thumbnail" src="./galleri/apal-5.jpg"></a>
+				<a href="./galleri/apal-6.jpg" data-lightbox="set0" data-title="Raspede epler."><img class="thumbnail" src="./galleri/apal-6.jpg"></a>
+				<a href="./galleri/apal-7.jpg" data-lightbox="set0" data-title="Brygger Johan stabler for eplepressing."><img class="thumbnail" src="./galleri/apal-7.jpg"></a>
+				<a href="./galleri/apal-8.jpg" data-lightbox="set0" data-title="Brygger Heidi rasper epler."><img class="thumbnail" src="./galleri/apal-8.jpg"></a>
+				<a href="./galleri/apal-9.jpg" data-lightbox="set0" data-title="Brygger Heidi rasper epler."><img class="thumbnail" src="./galleri/apal-9.jpg"></a>
+				<a href="./galleri/apal-10.jpg" data-lightbox="set0" data-title="Brygger Katinka rasper epler."><img class="thumbnail" src="./galleri/apal-10.jpg"></a>
+				<a href="./galleri/apal-11.jpg" data-lightbox="set0" data-title="Brygger Katinka kaster epler oppi Kenwooden for rasping."><img class="thumbnail" src="./galleri/apal-11.jpg"></a>
+				<a href="./galleri/apal-12.jpg" data-lightbox="set0" data-title="Improviserte mellomlegg for pressingen: skjærefjøler."><img class="thumbnail" src="./galleri/apal-12.jpg"></a>
+				<a href="./galleri/apal-13.jpg" data-lightbox="set0" data-title="Saft (venstre) og rasp (høyre)."><img class="thumbnail" src="./galleri/apal-13.jpg"></a>
+				<a href="./galleri/apal-14.jpg" data-lightbox="set0" data-title="Pressa i drift."><img class="thumbnail" src="./galleri/apal-14.jpg"></a>
+				<a href="./galleri/apal-15.jpg" data-lightbox="set0" data-title="Flytende gull."><img class="thumbnail" src="./galleri/apal-15.jpg"></a>
+				<a href="./galleri/apal-16.jpg" data-lightbox="set0" data-title="Eplepressa i gang, fra en annen vinkel.">
+					<img class="thumbnail" src="./galleri/apal-16.jpg"></a>
+				<a href="./galleri/apal-17.jpg" data-lightbox="set0" data-title="Utbytte: 19.5 liter eplemost."><img class="thumbnail" src="./galleri/apal-17.jpg"></a>
+				<a href="./galleri/apal-18.jpg" data-lightbox="set0" data-title="Aktivering av gjæren i pasteurisert eplemost."><img class="thumbnail" src="./galleri/apal-18.jpg"></a>
+				<a href="./galleri/apal-19.jpg" data-lightbox="set0" data-title="Pasteurisering av eplemost."><img class="thumbnail" src="./galleri/apal-19.jpg"></a>
+				<a href="./galleri/apal-20.jpg" data-lightbox="set0" data-title="Pasteurisering av eplemost."><img class="thumbnail" src="./galleri/apal-20.jpg"></a>
+		</div>
+
+		<div class="entry">
+			<h3>Snekkerverksted: eplepresse</h3>
+			Publisert 2016-09-27
+
+			<p>For å lage eplecider må saften tas ut av eplene. Til det trengs en eplepresse, og med god hjelp fra Tores kyndige hender fikk vi i dag snekret sammen en eplepresse. </p>
+			<a href="./galleri/eplepresse-1.jpg" data-lightbox="set1" data-title="Tore i gang med kutting"><img class="thumbnail" src="./galleri/eplepresse-1.jpg"></a>
+			<a href="./galleri/eplepresse-2.jpg" data-lightbox="set1" data-title="Arbeidsskisse."><img class="thumbnail" src="./galleri/eplepresse-2.jpg"></a>
+			<a href="./galleri/eplepresse-3.jpg" data-lightbox="set1" data-title="Johan pusser."><img class="thumbnail" src="./galleri/eplepresse-3.jpg"></a>
+			<a href="./galleri/eplepresse-4.jpg" data-lightbox="set1" data-title="Ferdig eplepresse."><img class="thumbnail" src="./galleri/eplepresse-4.jpg"></a>
+		</div>
+
+		<div class="entry">
+			<h3>Brygging av Fjosnisse</h3>
+			Publisert 2016-09-25
+
+			<p> I dag ble årets juleøl satt, i siste liten før jul. Ølet er en allgrain- og julekrydderutgave av brown alen Fjos, som var Tre Ingeniører og En Sykepleiers første øl. </p>
+			<a href="./galleri/fjosnisse-1.jpg" data-lightbox="set2" data-title="Meskingen er i gang."><img class="thumbnail" src="./galleri/fjosnisse-1.jpg"></a>
+			<a href="./galleri/fjosnisse-2.jpg" data-lightbox="set2" data-title="Tilsetting av varmt vann for å øke temperaturen i meskekaret."><img class="thumbnail" src="./galleri/fjosnisse-2.jpg"></a>
+			<a href="./galleri/fjosnisse-3.jpg" data-lightbox="set2" data-title="Tilsetting av vannfylte ølflasker for å heve vannstanden i meskekaret."><img class="thumbnail" src="./galleri/fjosnisse-3.jpg"></a>
+			<a href="./galleri/fjosnisse-4.jpg" data-lightbox="set2" data-title="Må ikke sløse med dyrebar vørter - alt skal med."><img class="thumbnail" src="./galleri/fjosnisse-4.jpg"></a>
+			<a href="./galleri/fjosnisse-5.jpg" data-lightbox="set2" data-title="Alt."><img class="thumbnail" src="./galleri/fjosnisse-5.jpg"></a>
+			<a href="./galleri/fjosnisse-6.jpg" data-lightbox="set2" data-title="Oppkok av vørter."><img class="thumbnail" src="./galleri/fjosnisse-6.jpg"></a>
+			<a href="./galleri/fjosnisse-7.jpg" data-lightbox="set2" data-title="Oppkok av vørter."><img class="thumbnail" src="./galleri/fjosnisse-7.jpg"></a>
+			<a href="./galleri/fjosnisse-8.jpg" data-lightbox="set2" data-title="Flasker igjen i meskekar etter ferdig mesking."><img class="thumbnail" src="./galleri/fjosnisse-8.jpg"></a>
+			<a href="./galleri/fjosnisse-9.jpg" data-lightbox="set2" data-title="Kjøkken etter brygging."><img class="thumbnail" src="./galleri/fjosnisse-9.jpg"></a>
+			<a href="./galleri/fjosnisse-10.jpg" data-lightbox="set2" data-title="17 liter fremtidig Fjosnisse på gjæringskar."><img class="thumbnail" src="./galleri/fjosnisse-10.jpg"></a>
+		</div>
+
+		<div class="entry">
+			<h3>Flasking av Fred</h3>
+			Publisert 2016-09-17
+
+			<p>I går ble 89 flasker Fred flasket med FN-blå korker. FG ble målt til 1.012 (1.008 i oppskrift), noe som vil tilsi en alkoholprosent på ca 5.2% (5.5% i oppskrift). Vi er godt fornøyde med smak, farge og resultat i det hele tatt, gitt at det ble foretatt
+				smaksprøver hvor prøvene var romtempererte og uten kullsyre. Vi tror noen ukers modning på flaske vil gjøre dette til et bra øl.</p>
+			<a href="./galleri/fred-flasking-1.jpg" data-lightbox="set3" data-title="Brygger Heidi i etikett- og hundepassavdelingen med tyggebeinet."><img class="thumbnail" src="./galleri/fred-flasking-1.jpg"></a>
+			<a href="./galleri/fred-flasking-2.jpg" data-lightbox="set3" data-title="Brygger Heidi og bryggerihund Leo i samspill."><img class="thumbnail" src="./galleri/fred-flasking-2.jpg"></a>
+			<a href="./galleri/fred-flasking-3.jpg" data-lightbox="set3" data-title="Omstikking før flasking."><img class="thumbnail" src="./galleri/fred-flasking-3.jpg"></a>
+			<a href="./galleri/fred-flasking-4.jpg" data-lightbox="set3" data-title="Smaksprøve."><img class="thumbnail" src="./galleri/fred-flasking-4.jpg"></a>
+			<a href="./galleri/fred-flasking-5.jpg" data-lightbox="set3" data-title="Måling av FG. Resultatet er 1.012."><img class="thumbnail" src="./galleri/fred-flasking-5.jpg"></a>
+			<a href="./galleri/fred-flasking-6.jpg" data-lightbox="set3" data-title="Gjestebrygger Adrian under flaskingen."><img class="thumbnail" src="./galleri/fred-flasking-6.jpg"></a>
+			<a href="./galleri/fred-flasking-7.jpg" data-lightbox="set3" data-title="Brygger Knut fyller flasker."><img class="thumbnail" src="./galleri/fred-flasking-7.jpg"></a>
+			<a href="./galleri/fred-flasking-8.jpg" data-lightbox="set3" data-title="Brygger Knut setter ned oppfylt flaske."><img class="thumbnail" src="./galleri/fred-flasking-8.jpg"></a>
+			<a href="./galleri/fred-flasking-9.jpg" data-lightbox="set3" data-title="Brygger Knut setter ned oppfylt flaske."><img class="thumbnail" src="./galleri/fred-flasking-9.jpg"></a>
+			<a href="./galleri/fred-flasking-10.jpg" data-lightbox="set3" data-title="Cirka kvartveis i flaskingen."><img class="thumbnail" src="./galleri/fred-flasking-10.jpg"></a>
+			<a href="./galleri/fred-flasking-11.jpg" data-lightbox="set3" data-title="Det flasker seg."><img class="thumbnail" src="./galleri/fred-flasking-11.jpg"></a>
+			<a href="./galleri/fred-flasking-12.jpg" data-lightbox="set3" data-title="Flasketuten peker på taket."><img class="thumbnail" src="./galleri/fred-flasking-12.jpg"></a>
+			<a href="./galleri/fred-flasking-13.jpg" data-lightbox="set3" data-title="Desinfisering av FN-blå korker."><img class="thumbnail" src="./galleri/fred-flasking-13.jpg"></a>
+			<a href="./galleri/fred-flasking-14.jpg" data-lightbox="set3" data-title="Fylling av flasker."><img class="thumbnail" src="./galleri/fred-flasking-14.jpg"></a>
+			<a href="./galleri/fred-flasking-15.jpg" data-lightbox="set3" data-title="Korket situasjon."><img class="thumbnail" src="./galleri/fred-flasking-15.jpg"></a>
+			<a href="./galleri/fred-flasking-16.jpg" data-lightbox="set3" data-title="Utbyttet."><img class="thumbnail" src="./galleri/fred-flasking-16.jpg"></a>
+			<a href="./galleri/fred-flasking-17.jpg" data-lightbox="set3" data-title="Utbyttet."><img class="thumbnail" src="./galleri/fred-flasking-17.jpg"></a>
+			<a href="./galleri/fred-flasking-18.jpg" data-lightbox="set3" data-title="Ferdig ettikerte flasker med Fred."><img class="thumbnail" src="./galleri/fred-flasking-18.jpg"></a>
+			<a href="./galleri/fred-flasking-19.jpg" data-lightbox="set3" data-title="Ferdig ettikerte flasker med Fred."><img class="thumbnail" src="./galleri/fred-flasking-19.jpg"></a>
+			<a href="./galleri/fred-flasking-20.jpg" data-lightbox="set3" data-title="Fred."><img class="thumbnail" src="./galleri/fred-flasking-20.jpg"></a>
+		</div>
+
+		<div class="entry">
+			<h3>Brygging av Fred</h3>
+			Publisert 2016-08-28
+
+			<p>I går ble neste øl, blonden Fred, satt, og nå trenger det bare tid på dunk og flaske. Under ligger noen bilder fra bryggingen. </p>
+			<a href="./galleri/fred-1.jpg" data-lightbox="set4" data-title="Vann klargjøres til mesking."><img class="thumbnail" src="./galleri/fred-1.jpg"></a>
+			<a href="./galleri/fred-2.jpg" data-lightbox="set4" data-title="Pumpa sørger for resirkulering."><img class="thumbnail" src="./galleri/fred-2.jpg"></a>
+			<a href="./galleri/fred-3.jpg" data-lightbox="set4" data-title="Pumpa sørger for resirkulering."><img class="thumbnail" src="./galleri/fred-3.jpg"></a>
+			<a href="./galleri/fred-4.jpg" data-lightbox="set4" data-title="Pumpa sørger for resirkulering."><img class="thumbnail" src="./galleri/fred-4.jpg"></a>
+			<a href="./galleri/fred-5.jpg" data-lightbox="set4" data-title="Brygger Johan studerer pumpa."><img class="thumbnail" src="./galleri/fred-5.jpg"></a>
+			<a href="./galleri/fred-6.jpg" data-lightbox="set4" data-title="Resirkulering av vann som varmes opp for mesking."><img class="thumbnail" src="./galleri/fred-6.jpg"></a>
+			<a href="./galleri/fred-7.jpg" data-lightbox="set4" data-title="Klargjøring av malt. "><img class="thumbnail" src="./galleri/fred-7.jpg"></a>
+			<a href="./galleri/fred-8.jpg" data-lightbox="set4" data-title="Veiing av malt."><img class="thumbnail" src="./galleri/fred-8.jpg"></a>
+			<a href="./galleri/fred-9.jpg" data-lightbox="set4" data-title="Veiing av malt."><img class="thumbnail" src="./galleri/fred-9.jpg"></a>
+			<a href="./galleri/fred-10.jpg" data-lightbox="set4" data-title="Maltduft inndras."><img class="thumbnail" src="./galleri/fred-10.jpg"></a>
+			<a href="./galleri/fred-11.jpg" data-lightbox="set4" data-title="Maltduft inndras."><img class="thumbnail" src="./galleri/fred-11.jpg"></a>
+			<a href="./galleri/fred-12.jpg" data-lightbox="set4" data-title="Tilsetting av malt i meskekaret."><img class="thumbnail" src="./galleri/fred-12.jpg"></a>
+			<a href="./galleri/fred-13.jpg" data-lightbox="set4" data-title="Malttilsetting."><img class="thumbnail" src="./galleri/fred-13.jpg"></a>
+			<a href="./galleri/fred-14.jpg" data-lightbox="set4" data-title="Malttilsetting."><img class="thumbnail" src="./galleri/fred-14.jpg"></a>
+			<a href="./galleri/fred-15.jpg" data-lightbox="set4" data-title="Mesking"><img class="thumbnail" src="./galleri/fred-15.jpg"></a>
+			<a href="./galleri/fred-16.jpg" data-lightbox="set4" data-title="Resirkulering under meskingen."><img class="thumbnail" src="./galleri/fred-16.jpg"></a>
+			<a href="./galleri/fred-17.jpg" data-lightbox="set4" data-title="Bryggerihunden Leo."><img class="thumbnail" src="./galleri/fred-17.jpg"></a>
+			<a href="./galleri/fred-18.jpg" data-lightbox="set4" data-title="Fornøyd brygger."><img class="thumbnail" src="./galleri/fred-18.jpg"></a>
+			<a href="./galleri/fred-19.jpg" data-lightbox="set4" data-title="Mer vørter enn tatt høyde (volum) for, og kasserollene måtte frem."><img class="thumbnail" src="./galleri/fred-19.jpg"></a>
+			<a href="./galleri/fred-20.jpg" data-lightbox="set4" data-title="Kornrester for ølbryggerbrød."><img class="thumbnail" src="./galleri/fred-20.jpg"></a>
+			<a href="./galleri/fred-21.jpg" data-lightbox="set4" data-title="Fornøyd brygger."><img class="thumbnail" src="./galleri/fred-21.jpg"></a>
+			<a href="./galleri/fred-22.jpg" data-lightbox="set4" data-title="Mye vørter."><img class="thumbnail" src="./galleri/fred-22.jpg"></a>
+			<a href="./galleri/fred-23.jpg" data-lightbox="set4" data-title="Humleavdelingen veiier opp humle."><img class="thumbnail" src="./galleri/fred-23.jpg"></a>
+			<a href="./galleri/fred-24.jpg" data-lightbox="set4" data-title="Fornøyd brygger."><img class="thumbnail" src="./galleri/fred-24.jpg"></a>
+			<a href="./galleri/fred-25.jpg" data-lightbox="set4" data-title="Oppveiing."><img class="thumbnail" src="./galleri/fred-25.jpg"></a>
+			<a href="./galleri/fred-26.jpg" data-lightbox="set4" data-title="Åpning av humleoppbevaringspose."><img class="thumbnail" src="./galleri/fred-26.jpg"></a>
+			<a href="./galleri/fred-27.jpg" data-lightbox="set4" data-title="Isolering av kokekar."><img class="thumbnail" src="./galleri/fred-27.jpg"></a>
+			<a href="./galleri/fred-28.jpg" data-lightbox="set4" data-title="Nærmer seg kok."><img class="thumbnail" src="./galleri/fred-28.jpg"></a>
+			<a href="./galleri/fred-29.jpg" data-lightbox="set4" data-title="OG etter avkjøling av ferdigkokt vørter. Som planlagt."><img class="thumbnail" src="./galleri/fred-29.jpg"></a>
+			<a href="./galleri/fred-30.jpg" data-lightbox="set4" data-title="Overføring av nedkjølt vørter til gjæringskar."><img class="thumbnail" src="./galleri/fred-30.jpg"></a>
+			<a href="./galleri/fred-31.jpg" data-lightbox="set4" data-title="Overføring av nedkjølt vørter til gjæringskar."><img class="thumbnail" src="./galleri/fred-31.jpg"></a>
+			<a href="./galleri/fred-32.jpg" data-lightbox="set4" data-title="Overføring av nedkjølt vørter til gjæringskar. De nye kranene er lekre."><img class="thumbnail" src="./galleri/fred-32.jpg"></a>
+		</div>
+
+		<div class="entry">
+			<h3>Flasking av Hoppla</h3>
+			Publisert 2016-04-03
+
+			<p>Nok en gang ser det ut som at det flasker seg! I går ble Hoppla flasket og etikkert ferdig. Nå trenger det bare noen rolige uker i flaska før det er klart til å leske mang en øltørst ingeniør, sykepleier, og folk av andre yrker. Smaksprøvene ser høyst
+				lovende ut, og vi tror dette blir en skikkelig slager!</p>
+			<a href="./galleri/hoppla-flasking-1.jpg" data-lightbox="set5" data-title="Omstikking."><img class="thumbnail" src="./galleri/hoppla-flasking-1.jpg"></a>
+			<a href="./galleri/hoppla-flasking-2.jpg" data-lightbox="set5" data-title="Ferdig vaskede og steriliserte flasker."><img class="thumbnail" src="./galleri/hoppla-flasking-2.jpg"></a>
+			<a href="./galleri/hoppla-flasking-3.jpg" data-lightbox="set5" data-title="Flasking."><img class="thumbnail" src="./galleri/hoppla-flasking-3.jpg"></a>
+			<a href="./galleri/hoppla-flasking-4.jpg" data-lightbox="set5" data-title="Korkmontasje."><img class="thumbnail" src="./galleri/hoppla-flasking-4.jpg"></a>
+			<a href="./galleri/hoppla-flasking-5.jpg" data-lightbox="set5" data-title="Fornøyd brygger."><img class="thumbnail" src="./galleri/hoppla-flasking-5.jpg"></a>
+			<a href="./galleri/hoppla-flasking-6.jpg" data-lightbox="set5" data-title="Tre flasker Hoppla!"><img class="thumbnail" src="./galleri/hoppla-flasking-6.jpg"></a>
+			<a href="./galleri/hoppla-flasking-7.jpg" data-lightbox="set5" data-title="Opphopt mengde Hoppla."><img class="thumbnail" src="./galleri/hoppla-flasking-7.jpg"></a>
+			<a href="./galleri/hoppla-flasking-8.jpg" data-lightbox="set5" data-title="En kasse små flasker ferdig ettikert."><img class="thumbnail" src="./galleri/hoppla-flasking-8.jpg"></a>
+			<a href="./galleri/hoppla-flasking-9.jpg" data-lightbox="set5" data-title="Hoppla på halvlitersflasker."><img class="thumbnail" src="./galleri/hoppla-flasking-9.jpg"></a>
+			<a href="./galleri/hoppla-flasking-10.jpg" data-lightbox="set5" data-title="Hoppla!"><img class="thumbnail" src="./galleri/hoppla-flasking-10.jpg"></a>
+		</div>
+
+		<div class="entry">
+			<h3>Tørrhumling av Hoppla</h3>
+			Publisert 2016-03-29
+
+			<p>Første dag etter påske ble gjæringsdunkene med Hoppla tilsatt ekstra humle. Tørrhumling skal gi en fin humlearoma på ølet. Vi venter i spenning! Smaksprøve av det foreløpige ølet ble også gjort.</p>
+			<a href="./galleri/hoppla-torrhumling-1.jpg" data-lightbox="set6" data-title="Klinkekuler og humle."><img class="thumbnail" src="./galleri/hoppla-torrhumling-1.jpg"></a>
+			<a href="./galleri/hoppla-torrhumling-2.jpg" data-lightbox="set6" data-title="Koking av humleposer, hyssing og klinkekuler."><img class="thumbnail" src="./galleri/hoppla-torrhumling-2.jpg"></a>
+			<a href="./galleri/hoppla-torrhumling-3.jpg" data-lightbox="set6" data-title="Brygger Johan plasserer humlepose i gjæringskar."><img class="thumbnail" src="./galleri/hoppla-torrhumling-3.jpg"></a>
+			<a href="./galleri/hoppla-torrhumling-4.jpg" data-lightbox="set6" data-title="Tørrhumling."><img class="thumbnail" src="./galleri/hoppla-torrhumling-4.jpg"></a>
+		</div>
+
+		<div class="entry">
+			<h3>Hoppla!</h3>
+			Publisert 2016-03-15
+
+			<p>I dag var det på tide med en etterlengtet bryggedag. Det nye ølet blir et øl av typen American Pale Ale, og skal hete Hoppla! Det er vårt første øl laget med malt og ikke maltekstrakt (les: all-grain). Vi er veldig spente på resultatet!</p>
+			<a href="./galleri/hoppla-1.jpg" data-lightbox="set7" data-title="Kontrollpanel i bruk."><img class="thumbnail" src="./galleri/hoppla-1.jpg"></a>
+			<a href="./galleri/hoppla-2.jpg" data-lightbox="set7" data-title="Meskekar og kokekar."><img class="thumbnail" src="./galleri/hoppla-2.jpg"></a>
+			<a href="./galleri/hoppla-3.jpg" data-lightbox="set7" data-title="Pumpe."><img class="thumbnail" src="./galleri/hoppla-3.jpg"></a>
+			<a href="./galleri/hoppla-4.jpg" data-lightbox="set7" data-title="Bryggerifan Yi."><img class="thumbnail" src="./galleri/hoppla-4.jpg"></a>
+			<a href="./galleri/hoppla-5.jpg" data-lightbox="set7" data-title="Silikonslange for tilbakeføring av pumpesirkulert strikevann, samt temperaturprobe, i meskekar."><img class="thumbnail" src="./galleri/hoppla-5.jpg"></a>
+			<a href="./galleri/hoppla-6.jpg" data-lightbox="set7" data-title="Temperering av gjær."><img class="thumbnail" src="./galleri/hoppla-6.jpg"></a>
+			<a href="./galleri/hoppla-7.jpg" data-lightbox="set7" data-title="Tilsetting av malt malt i meskekar."><img class="thumbnail" src="./galleri/hoppla-7.jpg"></a>
+			<a href="./galleri/hoppla-8.jpg" data-lightbox="set7" data-title="Tilsetting av malt malt i meskekar."><img class="thumbnail" src="./galleri/hoppla-8.jpg"></a>
+			<a href="./galleri/hoppla-9.jpg" data-lightbox="set7" data-title="Tilsetting av malt malt i meskekar."><img class="thumbnail" src="./galleri/hoppla-9.jpg"></a>
+			<a href="./galleri/hoppla-10.jpg" data-lightbox="set7" data-title="Tilsetting av malt malt i meskekar."><img class="thumbnail" src="./galleri/hoppla-10.jpg"></a>
+			<a href="./galleri/hoppla-11.jpg" data-lightbox="set7" data-title="Malt malt i maltsekk."><img class="thumbnail" src="./galleri/hoppla-11.jpg"></a>
+			<a href="./galleri/hoppla-12.jpg" data-lightbox="set7" data-title="Bryggere Johan og Knut rører og tilsetter malt."><img class="thumbnail" src="./galleri/hoppla-12.jpg"></a>
+			<a href="./galleri/hoppla-13.jpg" data-lightbox="set7" data-title="Bryggere Katinka og Johan under mesking."><img class="thumbnail" src="./galleri/hoppla-13.jpg"></a>
+			<a href="./galleri/hoppla-14.jpg" data-lightbox="set7" data-title="Bryggere Johan og Knut prøvesmaker etter mesking, og kan bekrefte at enzymene har gjort jobben: stivelsen har blitt til gjærbart (og smakbart) sukker."><img class="thumbnail" src="./galleri/hoppla-14.jpg"></a>
+			<a href="./galleri/hoppla-15.jpg" data-lightbox="set7" data-title="Fylling av gjæringsdunk for mellomlagring ved resirkulering av mesket væske."><img class="thumbnail" src="./galleri/hoppla-15.jpg"></a>
+			<a href="./galleri/hoppla-16.jpg" data-lightbox="set7" data-title="Resirkulering."><img class="thumbnail" src="./galleri/hoppla-16.jpg"></a>
+			<a href="./galleri/hoppla-17.jpg" data-lightbox="set7" data-title="Skylling av maltrester, for å få ut de siste sukkerrestene."><img class="thumbnail" src="./galleri/hoppla-17.jpg"></a>
+			<a href="./galleri/hoppla-18.jpg" data-lightbox="set7" data-title="Vørtersmaking."><img class="thumbnail" src="./galleri/hoppla-18.jpg"></a>
+			<a href="./galleri/hoppla-19.jpg" data-lightbox="set7" data-title="Vørtersmaking."><img class="thumbnail" src="./galleri/hoppla-19.jpg"></a>
+			<a href="./galleri/hoppla-20.jpg" data-lightbox="set7" data-title="Måling av OG."><img class="thumbnail" src="./galleri/hoppla-20.jpg"></a>
+			<a href="./galleri/hoppla-21.jpg" data-lightbox="set7" data-title="Nedkjøling av Hoppla!-vørter."><img class="thumbnail" src="./galleri/hoppla-21.jpg"></a>
+		</div>
+
+		<div class="entry">
+			<h3>Juleverksted og Jolebrygglansering</h3>
+			Publisert 2015-12-10
+
+			<p>2. desember var det klart for juleverksted i Odins veg. Stemninga ble satt med julemusikk, julebakst, julekurvfletting, og godt selskap. Vi utnyttet anledningen til å åpne de første leskende flasker med Jolebrygg. Etter en observasjon gjort om mengden
+				bitterstoffer i ølet, var både Johan og Knut noe forutinntatte i første smaking: julesmakene var litt vanskelige å finne bak humlebitterheten. Ettersom flere flasker har blitt smakt på senere, har alle bryggerne oppdaget flere og flere smaker (kanel,
+				honning, nellik, ingefær, appelsin), og endelig konklusjon er at ølet er en suksess!
+			</p>
+			<a href="./galleri/jolebrygg-1.jpg" data-lightbox="set8" data-title="Jolebrygg skjenkes varsomt over i egnet glass."><img class="thumbnail" src="./galleri/jolebrygg-1.jpg"></a>
+			<a href="./galleri/jolebrygg-2.jpg" data-lightbox="set8" data-title="Jolebrygg smaker ypperlig sammen med kakemann."><img class="thumbnail" src="./galleri/jolebrygg-2.jpg"></a>
+		</div>
+
+		<div class="entry">
+			<h3>Flasking av Jolebrygg</h3>
+			Publisert 2015-11-09
+
+			<p>Jula nærmer seg - Jolebrygg nærmer seg!</p>
+			<a href="./galleri/51.jpg" data-lightbox="set9" data-title="Stolt Johan før omstikking av Jolebrygg."><img class="thumbnail" src="./galleri/51.jpg"></a>
+			<a href="./galleri/52.jpg" data-lightbox="set9" data-title="15 liter igjen i omstikkingskaret ved flasking."><img class="thumbnail" src="./galleri/52.jpg"></a>
+			<a href="./galleri/53.jpg" data-lightbox="set9" data-title="Starsan-bøtte."><img class="thumbnail" src="./galleri/53.jpg"></a>
+			<a href="./galleri/54.jpg" data-lightbox="set9" data-title="Rengjorte flasker i kasse."><img class="thumbnail" src="./galleri/54.jpg"></a>
+			<a href="./galleri/55.jpg" data-lightbox="set9" data-title="Brygger Heidi."><img class="thumbnail" src="./galleri/55.jpg"></a>
+			<a href="./galleri/56.jpg" data-lightbox="set9" data-title="Brygger Knut."><img class="thumbnail" src="./galleri/56.jpg"></a>
+			<a href="./galleri/57.jpg" data-lightbox="set9" data-title="Bryggere Heidi og Katinka jobber med etikettproduksjon."><img class="thumbnail" src="./galleri/57.jpg"></a>
+			<a href="./galleri/58.jpg" data-lightbox="set9" data-title="Etikettproduksjon."><img class="thumbnail" src="./galleri/58.jpg"></a>
+			<a href="./galleri/59.jpg" data-lightbox="set9" data-title="Etikettproduksjon."><img class="thumbnail" src="./galleri/59.jpg"></a>
+			<a href="./galleri/60.jpg" data-lightbox="set9" data-title="Etikettproduksjon."><img class="thumbnail" src="./galleri/60.jpg"></a>
+			<a href="./galleri/61.jpg" data-lightbox="set9" data-title="Koking av vann til oppløsning og sterilisering av sukker. Sukkerlaken tilsettes omstikkingskaret for at gjæren har noe å lage kullsyre av."><img class="thumbnail" src="./galleri/61.jpg"></a>
+			<a href="./galleri/62.jpg" data-lightbox="set9" data-title="Flasking på gang."><img class="thumbnail" src="./galleri/62.jpg"></a>
+			<a href="./galleri/63.jpg" data-lightbox="set9" data-title="Flasking på gang."><img class="thumbnail" src="./galleri/63.jpg"></a>
+			<a href="./galleri/64.jpg" data-lightbox="set9" data-title="Nå flasker det seg virkelig!"><img class="thumbnail" src="./galleri/64.jpg"></a>
+			<a href="./galleri/65.jpg" data-lightbox="set9" data-title="Flasking."><img class="thumbnail" src="./galleri/65.jpg"></a>
+			<a href="./galleri/66.jpg" data-lightbox="set9" data-title="Etikettpåføring er i gang."><img class="thumbnail" src="./galleri/66.jpg"></a>
+			<a href="./galleri/67.jpg" data-lightbox="set9" data-title="Fornøyd brygger."><img class="thumbnail" src="./galleri/67.jpg"></a>
+			<a href="./galleri/68.jpg" data-lightbox="set9" data-title="Etikettpåføring."><img class="thumbnail" src="./galleri/68.jpg"></a>
+			<a href="./galleri/69.jpg" data-lightbox="set9" data-title="Mye juleøl!"><img class="thumbnail" src="./galleri/69.jpg"></a>
+			<a href="./galleri/70.jpg" data-lightbox="set9" data-title="Mye juleøl!"><img class="thumbnail" src="./galleri/70.jpg"></a>
+			<a href="./galleri/71.jpg" data-lightbox="set9" data-title="Mye juleøl!"><img class="thumbnail" src="./galleri/71.jpg"></a>
+			<a href="./galleri/72.jpg" data-lightbox="set9" data-title="Mye juleøl!"><img class="thumbnail" src="./galleri/72.jpg"></a>
+			<a href="./galleri/73.jpg" data-lightbox="set9" data-title="Mye juleøl!"><img class="thumbnail" src="./galleri/73.jpg"></a>
+			<a href="./galleri/74.jpg" data-lightbox="set9" data-title="Halvlitersflasker med Jolebrygg."><img class="thumbnail" src="./galleri/74.jpg"></a>
+			<a href="./galleri/75.jpg" data-lightbox="set9" data-title="Special edition-utgave på halvlitersflaske. Gullkork."><img class="thumbnail" src="./galleri/75.jpg"></a>
+			<a href="./galleri/76.jpg" data-lightbox="set9" data-title="Juleøl i lang(e) bane(r)."><img class="thumbnail" src="./galleri/76.jpg"></a>
+		</div>
+
+		<div class="entry">
+			<h3>Gjæringsfremdrift, Jolebrygg</h3>
+			Publisert 2015-10-28
+
+			<p> Gjæringen av Jolebrygg er godt i gang. Det er noen svingninger i temperatur i gangen som følge av varierende temperaturer ute. I dag måtte Brygger Knut legge et pledd over tvillingene før natten.</p>
+			<a href="./galleri/jolebrygg_gjaering-1.jpg" data-lightbox="set10" data-title="Pledd lagt over gjæringsdunker."><img class="thumbnail" src="./galleri/jolebrygg_gjaering-1.jpg"></a>
+			<a href="./galleri/jolebrygg_gjaering-2.jpg" data-lightbox="set10" data-title="Pledd lagt over gjæringsdunker."><img class="thumbnail" src="./galleri/jolebrygg_gjaering-2.jpg"></a>
+		</div>
+
+		<div class="entry">
+			<h3>Brygging av Jolebrygg</h3>
+			Publisert 2015-10-24
+
+			<p>Brygging av Jolebrygg</p>
+			<a href="./galleri/35.jpg" data-lightbox="set11" data-title="STC-1000 brukes som termometer."><img class="thumbnail" src="./galleri/35.jpg"></a>
+			<a href="./galleri/36.jpg" data-lightbox="set11" data-title="Termometer på kokekjele under oppkok."><img class="thumbnail" src="./galleri/36.jpg"></a>
+			<a href="./galleri/37.jpg" data-lightbox="set11" data-title="Aluminiumsfolie og isopor ble brukt som lokk."><img class="thumbnail" src="./galleri/37.jpg"></a>
+			<a href="./galleri/38.jpg" data-lightbox="set11" data-title="Kaffetørste bryggere får dekket behovet."><img class="thumbnail" src="./galleri/38.jpg"></a>
+			<a href="./galleri/39.jpg" data-lightbox="set11" data-title="Brygger Johan i gang med røresleiv (gardinstang og tresleiv koblet sammen)."><img class="thumbnail" src="./galleri/39.jpg"></a>
+			<a href="./galleri/40.jpg" data-lightbox="set11" data-title="Fornøyd brygger."><img class="thumbnail" src="./galleri/40.jpg"></a>
+			<a href="./galleri/41.jpg" data-lightbox="set11" data-title="Vørter med appelsinskall."><img class="thumbnail" src="./galleri/41.jpg"></a>
+			<a href="./galleri/42.jpg" data-lightbox="set11" data-title="Sånt blir det godt juleøl av!"><img class="thumbnail" src="./galleri/42.jpg"></a>
+			<a href="./galleri/43.jpg" data-lightbox="set11" data-title="Det røres."><img class="thumbnail" src="./galleri/43.jpg"></a>
+			<a href="./galleri/44.jpg" data-lightbox="set11" data-title="Det røres."><img class="thumbnail" src="./galleri/44.jpg"></a>
+			<a href="./galleri/45.jpg" data-lightbox="set11" data-title="Det røres, fra nok en vinkel."><img class="thumbnail" src="./galleri/45.jpg"></a>
+			<a href="./galleri/46.jpg" data-lightbox="set11" data-title="Tapping av nedkjølt vørter til gjæringsdunk."><img class="thumbnail" src="./galleri/46.jpg"></a>
+			<a href="./galleri/47.jpg" data-lightbox="set11" data-title="Johan lurer på hvordan det lukter nedi dunken."><img class="thumbnail" src="./galleri/47.jpg"></a>
+			<a href="./galleri/48.jpg" data-lightbox="set11" data-title="Tømt kokekar."><img class="thumbnail" src="./galleri/48.jpg"></a>
+			<a href="./galleri/49.jpg" data-lightbox="set11" data-title="Fulle gjæringsdunker."><img class="thumbnail" src="./galleri/49.jpg"></a>
+			<a href="./galleri/50.jpg" data-lightbox="set11" data-title="Rayman som pauseunderholdning for jentene."><img class="thumbnail" src="./galleri/50.jpg"></a>
+		</div>
+
+		<div class="entry">
+			<h3>Testkoking med selvbygget kokekar</h3>
+			Publisert 2015-10-23
+
+			<p>Dagen før bryggingen av Jolebrygg ble det utført testkoking av vann med selvbygget kokekar i Odins veg 14A. Gjennom testkokingen observerte vi flere svakheter ved prosessen, som var svært verdifulle for videre bruk. Blant annet ble vi gjort bevisste
+				på at stor forsiktighet må utvises ved plassering av kjøler i kokekar, da kranen er delvis sammenkoblet med det noe utsatte dreneringsrøret. I tillegg viste det seg vesentlig for god ventilasjon at den store toppen på kokekaret ble dekket til, slik
+				at dampen ble kontrollert styrt mot ventilatoren.</p>
+			<a href="./galleri/testbrygging-1.jpg" data-lightbox="set12" data-title="Ødelagt pakning som forårsaket lekkasje ved testkoking."><img class="thumbnail" src="./galleri/testbrygging-1.jpg"></a>
+		</div>
+
+		<div class="entry">
+			<h3>Elektrisk bryggeri</h3>
+			Publisert 2015-10-22
+
+			<p>Kvålstabø Kjelemakeri (må ikke forveksles med Kvålstabø Kjølermakeri!) ble hyret for produksjon av koke- og meskekar. To kasserte varmtvannstanker ble donert fra Ahlsell. Ytterblikk og isolasjon ble fjernet, og ved hjelp av vinkelsliper og Tores kyndige
+				hender ble toppen fjernet, slik at vi satt igjen med to åpne ståltanker. Også hull i den ene tanken ble lappet sammen av Tore. Den påfølgende dagen ble det gjort innkjøp av kraner, diverse rørdeler og analoge termometre, som skulle brukes til koke-
+				og meskekarene. Tore stilte velvillig opp med ekspertise og fri anvendelse av verktøy og rørdeler. For drenering av vørteren til kranen konstruerte vi et kobberrør med hull for plassering på bunnen av kjelene, som førte vørteren til kranen. Videre
+				ble det laget to filtreringssokker av stålduk for montasje over dreneringsrøret. Det ble handlet inn flittig på ebay og Amazon for å muliggjøre elektrisk drift av kjelene, blant annet: elektrisk termostat, PID-regulator, transistorreléer, brytere,
+				varmeelementer. Kokekaret ble midlertidig ferdigstilt for å brukes til brygging av Jolebrygg. Det ble bestemt at dette skulle brukes uten kontrollpanel eller PID-regulator til dette brygget, kun med enkel manuell kontroll (av / på). Begge karene ble
+				også behandlet og grundig vasket med kaustisk soda. Videre arbeid skal trengs på begge karene. </p>
+			<a href="./galleri/elbrygg-1.jpg" data-lightbox="set13" data-title="Kappede ståltanker."><img class="thumbnail" src="./galleri/elbrygg-1.jpg"></a>
+			<a href="./galleri/elbrygg-2.jpg" data-lightbox="set13" data-title="Kappede ståltanker."><img class="thumbnail" src="./galleri/elbrygg-2.jpg"></a>
+			<a href="./galleri/elbrygg-3.jpg" data-lightbox="set13" data-title="Kappede ståltanker."><img class="thumbnail" src="./galleri/elbrygg-3.jpg"></a>
+			<a href="./galleri/elbrygg-4.jpg" data-lightbox="set13" data-title="Kappede ståltanker."><img class="thumbnail" src="./galleri/elbrygg-4.jpg"></a>
+			<a href="./galleri/elbrygg-5.jpg" data-lightbox="set13" data-title="Testing av varmeelement i den ene varmtvannstanken. Det fungerte som det skulle, men effekten viste seg å være for lav."><img class="thumbnail" src="./galleri/elbrygg-5.jpg"></a>
+			<a href="./galleri/elbrygg-6.jpg" data-lightbox="set13" data-title="Kapping av kobberrør for dreneringsrør."><img class="thumbnail" src="./galleri/elbrygg-6.jpg"></a>
+			<a href="./galleri/elbrygg-7.jpg" data-lightbox="set13" data-title="Kraner, O-ringer og fittings."><img class="thumbnail" src="./galleri/elbrygg-7.jpg"></a>
+			<a href="./galleri/elbrygg-8.jpg" data-lightbox="set13" data-title="Ferdig dreneringsrør (før hulling)."><img class="thumbnail" src="./galleri/elbrygg-8.jpg"></a>
+			<a href="./galleri/elbrygg-9.jpg" data-lightbox="set13" data-title="Lodding av dreneringsrør."><img class="thumbnail" src="./galleri/elbrygg-9.jpg"></a>
+			<a href="./galleri/elbrygg-10.jpg" data-lightbox="set13" data-title="Lodding av dreneringsrør."><img class="thumbnail" src="./galleri/elbrygg-10.jpg"></a>
+			<a href="./galleri/elbrygg-11.jpg" data-lightbox="set13" data-title="Lodding av dreneringsrør."><img class="thumbnail" src="./galleri/elbrygg-11.jpg"></a>
+			<a href="./galleri/elbrygg-12.png" data-lightbox="set13" data-title="Koblingsskjema."><img class="thumbnail" src="./galleri/elbrygg-12.png"></a>
+		</div>
+
+		<div class="entry">
+			<h3>Flasking av Balkong</h3>
+			Publisert 2015-05-28
+
+			<p>Etter nøye vurdering av pluppaktiviteten i gjærlåsen ble det fastslått at flaskingen kunne starte. 0.7 liter vann ble kokt opp, og 220 gram DME ble tilsatt, tiltenkt karbonering av ølet. Dette ble deretter overført til et StarSan-behandlet gjæringskar.
+				Det ble fort bestemt at ølet Balkong måtte flaskes på balkongen. Som sagt så gjort; bryggeriet flyttet utendørs, og hevertoverføringen av øl til ny gjæringsdunk med kullsyremalt ble initiert. En smaksprøve ble utført i overføringsfasen; samtlige bryggere
+				var fornøyde med resultatet. Johan påpekte at med kullsyre og lavere serveringstemperatur, kom dette til å bli sommerens vinner. Limen var tydelig tilstede i smaksbildet, og ga en bitter-besk ettersmak som det ble satt pris på. Før overføring til
+				flasker, ble det gjennomført en måling av tetthet på den endelige blandingen. Denne målingen viste 1.017, noe som er i god overensstemmelse med oppskriften (anslått 1.015 som FG). Med en OG på 1.062, vil dette implisere en alkoholprosent på rundt
+				5.9%. Dette er endel over det som er planlagt, men vi ser på det som en bonus.</p>
+			<a href="./galleri/19.jpg" data-lightbox="set14" data-title="To ingeniører og en sykepleier flasker."><img class="thumbnail" src="./galleri/19.jpg"></a>
+			<a href="./galleri/20.jpg" data-lightbox="set14" data-title="Omstikkingskaret tømmes, flasker fylles."><img class="thumbnail" src="./galleri/20.jpg"></a>
+			<a href="./galleri/21.jpg" data-lightbox="set14" data-title="Måling av FG."><img class="thumbnail" src="./galleri/21.jpg"></a>
+			<a href="./galleri/22.jpg" data-lightbox="set14" data-title="To ingeniører og en sykepleier."><img class="thumbnail" src="./galleri/22.jpg"></a>
+			<a href="./galleri/23.jpg" data-lightbox="set14" data-title="FG-måling og flasking."><img class="thumbnail" src="./galleri/23.jpg"></a>
+			<a href="./galleri/24.jpg" data-lightbox="set14" data-title="Glede."><img class="thumbnail" src="./galleri/24.jpg"></a>
+			<a href="./galleri/25.jpg" data-lightbox="set14" data-title="Korkpåsetting."><img class="thumbnail" src="./galleri/25.jpg"></a>
+			<a href="./galleri/26.jpg" data-lightbox="set14" data-title="Inspeksjon."><img class="thumbnail" src="./galleri/26.jpg"></a>
+			<a href="./galleri/27.jpg" data-lightbox="set14" data-title="Fornøyd brygger."><img class="thumbnail" src="./galleri/27.jpg"></a>
+			<a href="./galleri/28.jpg" data-lightbox="set14" data-title="Veldig fornøyd brygger."><img class="thumbnail" src="./galleri/28.jpg"></a>
+			<a href="./galleri/29.jpg" data-lightbox="set14" data-title="Kapslingsprosess."><img class="thumbnail" src="./galleri/29.jpg"></a>
+			<a href="./galleri/30.jpg" data-lightbox="set14" data-title="Opp ned går fint."><img class="thumbnail" src="./galleri/30.jpg"></a>
+			<a href="./galleri/31.jpg" data-lightbox="set14" data-title="Prøvesmaking er viktig!"><img class="thumbnail" src="./galleri/31.jpg"></a>
+			<a href="./galleri/32.jpg" data-lightbox="set14" data-title="Prøvesmaking er viktig!"><img class="thumbnail" src="./galleri/32.jpg"></a>
+			<a href="./galleri/33.jpg" data-lightbox="set14" data-title="Det smaker virkelig godt med balkong på balkongen!"><img class="thumbnail" src="./galleri/33.jpg"></a>
+			<a href="./galleri/34.jpg" data-lightbox="set14" data-title="Filosoferende brygger."><img class="thumbnail" src="./galleri/34.jpg"></a>
+		</div>
+
+		<div class="entry">
+			<h3>Taco og Fjos</h3>
+			Publisert 2015-03-14
+
+			<p>Brygger Knut prøvde Fjos til en deilig tacorett for første gang. Det var stor suksess, og det hele måtte dokumenteres.</p>
+			<a href="./galleri/18.jpg" data-lightbox="set15" data-title="Taco og Fjos er en god match!"><img class="thumbnail" src="./galleri/18.jpg"></a>
+		</div>
+
+		<div class="entry">
+			<h3>Design og påføring av etiketter for ferdigbrygget Fjos</h3>
+			Publisert 2015-01-09
+
+			<p>Endelig var dagen kommet! Ølet var ferdig gjæret på flasker, og vi kunne smake på herligheten. Etikettdesignet var ikke helt ferdig, så dette måtte ordnes først. Bilder av hver brygger måtte tas (i stuen til Heidi og Knut på Moholt), og plasseres delikat
+				på etiketten. Bryggere Johan og Knut kjørte ned til Gløshaugen for å skrive ut etikettene når de var ferdige. Etter mye klipping kunne etikettene monteres på flaskene ved hjelp av melk.</p>
+			<a href="./galleri/4.jpg" data-lightbox="set16" data-title="Katinkas etikett."><img class="thumbnail" src="./galleri/4.jpg"></a>
+			<a href="./galleri/5.jpg" data-lightbox="set16" data-title="Heidis etikett."><img class="thumbnail" src="./galleri/5.jpg"></a>
+			<a href="./galleri/6.jpg" data-lightbox="set16" data-title="Knuts etikett."><img class="thumbnail" src="./galleri/6.jpg"></a>
+			<a href="./galleri/7.jpg" data-lightbox="set16" data-title="Johans etikett."><img class="thumbnail" src="./galleri/7.jpg"></a>
+			<a href="./galleri/8.jpg" data-lightbox="set16" data-title="Fire flasker Fjos."><img class="thumbnail" src="./galleri/8.jpg"></a>
+			<a href="./galleri/9.jpg" data-lightbox="set16" data-title="Fire flasker Fjos. Annen vinkel."><img class="thumbnail" src="./galleri/9.jpg"></a>
+			<a href="./galleri/10.jpg" data-lightbox="set16" data-title="Fire flasker Fjos. En flaske i front, med etiketten frem."><img class="thumbnail" src="./galleri/10.jpg"></a>
+			<a href="./galleri/11.jpg" data-lightbox="set16" data-title="Fire flasker Fjos. Johan-flaske i front, med baksiden av etikettene frem."><img class="thumbnail" src="./galleri/11.jpg"></a>
+			<a href="./galleri/12.jpg" data-lightbox="set16" data-title="Fire flasker Fjos. Knut-flaske i front, med baksiden av etikettene frem."><img class="thumbnail" src="./galleri/12.jpg"></a>
+			<a href="./galleri/13.jpg" data-lightbox="set16" data-title="Fire flasker Fjos. Katinka-flaske i front, med baksiden av etikettene frem."><img class="thumbnail" src="./galleri/13.jpg"></a>
+			<a href="./galleri/14.jpg" data-lightbox="set16" data-title="Fire flasker Fjos. Heidi-flaske i front, med baksiden av etikettene frem."><img class="thumbnail" src="./galleri/14.jpg"></a>
+			<a href="./galleri/15.jpg" data-lightbox="set16" data-title="Fornøyd brygger prøveheller en flakse nyettikert Fjos."><img class="thumbnail" src="./galleri/15.jpg"></a>
+			<a href="./galleri/16.jpg" data-lightbox="set16" data-title="Det skummer herlig!"><img class="thumbnail" src="./galleri/16.jpg"></a>
+			<a href="./galleri/17.jpg" data-lightbox="set16" data-title="Fin skumtopp"><img class="thumbnail" src="./galleri/17.jpg"></a>
+		</div>
+
+		<div class="entry">
+			<h3>Flasking av Fjos</h3>
+			Publisert 2014-11-12
+
+			<p>Etter måling av tettheten flere dager på rad, ble det konstantert at gjæringen av ølet var ferdig. Det var dermed klart for å flaske Fjos. Johan ankom ca. kl 20, og skylling (vann) og StarSan-behandling av flasker ble initiert. Gjæringsdunken ble plassert
+				på benken litt i forkant for å la gjær og grums synke til bunnen. De to kassene som flaskene stod i, ble raskt klorbehandlet langs kantene. 163 gram Muntons Extra Light DME ble kokt opp med 130 g vann. Dette ble deretter tilsatt dunk #2. Hevert fra
+				dunk #1 til dunk #2. Hevert fra dunk #2 til flasker. Fylte en og en kasse med ølflasker, som deretter ble påmontert orange korker (som lå i StarSan-bad). Flaskekassene ble deretter plassert ut i gangen for oppbevaring en ukes tid, i en gjennomsiktig
+				plastpose for å unngå søl ved mulig lekkasje.
+			</p>
+		</div>
+
+		<div class="entry">
+			<h3>Brygging av Fjos</h3>
+			Publisert 2014-10-28
+
+			<p> Johan og Katinka kom med pizza fra Dolly ti over fem. Da var 15 liter vann kokt opp og plassert i bryggekjelen. Etter oppkok stod kjelen på platen (nivå 1) med lokket på, inntil bryggingen kunne starte. Etter at maten var spist, og motet ladet opp,
+				bar det inn/ut/bort/over på kjøkkenet. Maltekstrakt og spraymalt ble løst opp i to løse kasseroller, før den oppløste malten ble tilsatt bryggekjelen. På denne måten hadde vi kontroll på totalt volum i bryggekjelen. 2 liter vann ble fjernet fra bryggekjelen,
+				for å forsikre oss om at det ikke ble for stor totalmengde vørter i kjelen. Etter all malt var tilsatt, ble siste nødvendige vannmengde tilsatt kjelen. Det er mulig noe vann fordampet underveis, spesielt da vannet stod og holdt varmen før bryggestart.
+				Kjøleprosessen ble avsluttet etter 15 minutter, da vørteren holdt 20 grader. StarSan ble sprayet inn i krantuten til bryggekjelen, og tapping av vørter til gjæringsdunken ble startet. En liten slant ble også overført til målesylinder, for måling av
+				OG. Når nivået var tilstrekkelig lavt i kjelen, tettet humlesedimenter kranåpningen. Resten av vørteren ble derfor helt over kjelekanten gjennom en sil (gikk først gjennom StarSan-behandling). OG ble målt til 1.078, noe som var vesentlig over planlagt
+				OG (1.060). Volumet i gjæringsdunken var også 16 l, så en mulig forklaring på dette er at mer vann en planlagt har fordampet i kokingen. Som en nødløsning for å unngå for høyt sukkerinnhold, ble 1.5 liter kokt opp og tilsatt vørteren. Dette ga ny
+				OG på 1.065. Temperaturøkningen i gjæringsdunken dette medførte til ble ikke målt, men vurdert som uproblematisk for gjæren. Gjærpakningen ble deretter StarSan-behandlet, åpnet og innholdet tilsatt gjæringsdunken.
+			</p>
+		</div>
+
+		<div class="entry">
+			<h3>Vørterkjøler</h3>
+			Publisert 2014-10-25
+
+			<p>Når man lager øl trengs vørter. Vørteren må kokes, men gjæren kan ikke tilsettes før vørteren er kald igjen. Nedkjølingen av kokt vørter bør gå så fort som mulig for å unngå at den eksponeres unødvendig for bakterier som kan infisere ølet. Derfor er
+				en vørterkjøler fryktelig fin å ha når øl skal brygges. Kvålstabø Kjølermakeri er vår rammeleverandør av vørterkjølere. Dokumentasjonen for deres vørterkjøler finner du på GitHub-repoet vårt.
+			</p>
+			<a href="./galleri/kjoler1.jpg" data-lightbox="set19" data-title="Testing av vørterkjøler på rotete kjøkkenbenk."><img class="thumbnail" src="./galleri/kjoler1.jpg"></a>
+			<a href="./galleri/kjoler2.jpg" data-lightbox="set19" data-title="Testing av vørterkjøler på rotete kjøkkenbenk."><img class="thumbnail" src="./galleri/kjoler2.jpg"></a>
+		</div>
+	</div>
+
+	<script src="./galleri/lightbox-plus-jquery.min.js"></script>
+
+	<div id="lightboxOverlay" class="lightboxOverlay" style="display: none;"></div>
+
+	<div id="lightbox" class="lightbox" style="display: none;">
+
+		<div class="lb-outerContainer">
+
+			<div class="lb-container"><img class="lb-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+
+				<div class="lb-nav">
+					<a class="lb-prev" href="http://johankso.github.io/brygg/hjemmeside/detsiste.html"></a>
+					<a class="lb-next" href="http://johankso.github.io/brygg/hjemmeside/detsiste.html"></a>
+				</div>
+
+				<div class="lb-loader">
+					<a class="lb-cancel"></a>
+				</div>
+			</div>
+		</div>
+
+		<div class="lb-dataContainer">
+
+			<div class="lb-data">
+
+				<div class="lb-details"><span class="lb-caption"></span><span class="lb-number"></span></div>
+
+				<div class="lb-closeContainer">
+					<a class="lb-close"></a>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+	<script src="js\lightbox-plus-jquery.min.js"></script>
 </body>
+
 </html>
