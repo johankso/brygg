@@ -10,15 +10,27 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="154.10214mm"
-   height="80.1511mm"
-   viewBox="0 0 546.03125 283.99996"
+   width="154.10983mm"
+   height="113.82388mm"
+   viewBox="0 0 546.0585 403.31297"
    id="svg5970"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="fred.svg">
   <defs
      id="defs5972">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4263">
+      <stop
+         style="stop-color:#05afdc;stop-opacity:1;"
+         offset="0"
+         id="stop4265" />
+      <stop
+         style="stop-color:#8ae4fc;stop-opacity:1"
+         offset="1"
+         id="stop4267" />
+    </linearGradient>
     <linearGradient
        id="linearGradient5763"
        inkscape:collect="always">
@@ -117,26 +129,13 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient8101"
-       id="linearGradient8107"
-       x1="182.03125"
-       y1="857.80994"
-       x2="182.03125"
-       y2="1043.3608"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.4136941,0,0,0.99937014,181.98436,-377.00986)" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient8101">
-      <stop
-         style="stop-color:#05afdc;stop-opacity:1"
-         offset="0"
-         id="stop8103" />
-      <stop
-         style="stop-color:#ffe8d8;stop-opacity:1"
-         offset="1"
-         id="stop8105" />
-    </linearGradient>
+       xlink:href="#linearGradient4263"
+       id="linearGradient4269"
+       x1="481.745"
+       y1="413.42001"
+       x2="481.745"
+       y2="765.0741"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -145,9 +144,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="69.492293"
-     inkscape:cy="400.76807"
+     inkscape:zoom="1.4"
+     inkscape:cx="151.82017"
+     inkscape:cy="263.30533"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -161,7 +160,19 @@
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:snap-page="true"
-     inkscape:snap-bbox="true" />
+     inkscape:snap-bbox="true"
+     showguides="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-text-baseline="false"
+     inkscape:snap-center="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-nodes="true"
+     inkscape:object-paths="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-edge-midpoints="true" />
   <metadata
      id="metadata5975">
     <rdf:RDF>
@@ -178,17 +189,14 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-181.98437,-390.36223)">
+     transform="translate(-181.95711,-390.33495)">
     <rect
-       inkscape:export-ydpi="600"
-       inkscape:export-xdpi="600"
-       inkscape:export-filename="C:\Users\johankso\Documents\Brygg\hoppla\etikett\etikett_forslag_johan.png"
-       style="display:inline;opacity:1;fill:url(#linearGradient8107);fill-opacity:1;stroke:none"
-       id="rect8038"
-       width="546.03125"
-       height="283.99997"
-       x="181.98438"
-       y="390.36221" />
+       style="opacity:1;fill:url(#linearGradient4269);fill-opacity:1.0;stroke:none;stroke-width:7.97376442;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4251"
+       width="546.05853"
+       height="403.31302"
+       x="181.95711"
+       y="390.33493" />
     <path
        style="display:inline;fill:url(#radialGradient5747);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 530.32952,487.72243 c 39.71892,0.4506 86.3672,1.0445 120.00001,0 10.19857,-0.3167 27.15368,-9.8774 19,-24 -8.15368,-14.12263 -21,-3.00003 -21,-3.00003 0,0 0,-14.25 -14.25,-14.25 -14.25,0 -12.875,16.62503 -12.875,12.625 0,-4 2.66009,-20.8435 -12.1758,-23.2786 -11.52211,-1.8912 -18.05145,18.0514 -18.05145,18.0514 0,0 1.79528,-24.12101 -13.92624,-24.12101 -15.72152,0 -17.59736,17.59741 -17.59736,17.59741 0,0 -12.22608,-17.61441 -21.36755,-12.3366 -9.14148,5.2779 0,18.7124 0,18.7124 0,0 -15.95998,-10.04 -21.75661,0 -5.79664,10.04013 8.8032,15.24763 8.8032,15.24763 0,0 -8.7778,1.8032 -8.7778,8.7778 0,6.9746 8.2519,9.9097 13.9746,9.9746 z"
