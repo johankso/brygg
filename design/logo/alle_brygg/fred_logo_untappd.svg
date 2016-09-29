@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="43.274078mm"
+   height="7.2201853mm"
+   viewBox="0 0 153.33335 25.583334"
+   id="svg5914"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="fred_logo_untappd.svg"
+   inkscape:export-filename="fred_logo_untappd.png"
+   inkscape:export-xdpi="291.98697"
+   inkscape:export-ydpi="291.98697">
+  <defs
+     id="defs5916" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="119.36697"
+     inkscape:cy="6.2343353"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="877"
+     inkscape:window-height="405"
+     inkscape:window-x="41"
+     inkscape:window-y="185"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5919">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(1736.6666,883.28662)">
+    <rect
+       y="-882.03662"
+       x="-1735.4166"
+       height="24.333334"
+       width="152.08334"
+       id="rect3420"
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\johankso\Documents\Brygg\hoppla\etikett\etikett_forslag_johan.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       style="display:inline;fill:#0097e7;fill-opacity:1;stroke:none"
+       id="rect3786"
+       width="152.08334"
+       height="24.333334"
+       x="-1736.6666"
+       y="-883.28662"
+       inkscape:export-filename="C:\Users\johankso\Documents\Brygg\hoppla\etikett\etikett_forslag_johan.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3788"
+       y="-864.10498"
+       x="-1731.6565"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.41753006px;line-height:125%;font-family:'Champagne &amp; Limousines';-inkscape-font-specification:'Champagne &amp; Limousines';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.76041669;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\johankso\Documents\Brygg\hoppla\etikett\etikett_forslag_johan.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:condensed;font-size:19.01041794px;font-family:'Tre Ingeniorer og En Sykepleier';-inkscape-font-specification:'Tre Ingeniorer og En Sykepleier Thin Condensed';fill:#ffffff;stroke:#ffffff;stroke-width:0.38020834;stroke-linejoin:round;stroke-opacity:1"
+         y="-864.10498"
+         x="-1731.6565"
+         sodipodi:role="line"
+         id="tspan3792">Fred</tspan></text>
+  </g>
+</svg>
