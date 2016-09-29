@@ -44,6 +44,11 @@ text-decoration: underline;
 
 #logo {
 width:250px;
+position:relative;
+margin-left: auto;
+margin-right:auto;
+margin-top:auto;
+margin-bottom:auto;
 }
 
 .menu {
@@ -91,15 +96,12 @@ margin-right:auto;
 position:relative;
 margin-left: auto;
 margin-right:auto;
-
+width: 250px;
 }
 
-#logo{
+.video{
 position:relative;
-margin-left: auto;
-margin-right:auto;
-margin-top:auto;
-margin-bottom:auto;
+width:100%;
 }
 
 img.thumbnail{
@@ -133,14 +135,4 @@ padding-top: 1px;
 @media screen and (-webkit-device-pixel-ratio: 2)  {
 	html{
 		background-size:200% auto;
-	}
-
-}
-
-@media screen and (-webkit-device-pixel-ratio: 1)  {
-	html{
-		background-size:100% auto;
-	}
-
-
-}
+	}}
