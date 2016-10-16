@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0000001"
-     inkscape:cx="121.60275"
-     inkscape:cy="173.12065"
+     inkscape:zoom="1.0000001"
+     inkscape:cx="236.15272"
+     inkscape:cy="105.60946"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -7206,7 +7206,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -9328,20 +9328,20 @@
   </g>
   <g
      transform="translate(0,70.866146)"
-     style="display:inline"
+     style="display:none"
      inkscape:label="Knut"
      id="layer3"
      inkscape:groupmode="layer">
     <image
        sodipodi:absref="C:\git-repos\brygg\apal\etikett\bildebobler\knut.png"
        xlink:href="bildebobler\knut.png"
-       width="130.93967"
-       height="114.78294"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeQuality"
-       id="image3490"
+       y="130.99551"
        x="490.68985"
-       y="130.99551" />
+       id="image3490"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="114.78294"
+       width="130.93967" />
     <path
        sodipodi:nodetypes="cccscsccccccccscssscscccsccsccscccccccccssscscscccccccccsccccsscccccsccccscscssscsccsssccscccssccscscssccsccscccccsccccsscccssccsscccccccccccssccccccccscccscccccccccccccccccsccsssssscccccccsscccsccscscccccsccsccscccsccccccccccssscccscsccccccscccccccssscssscccscscsccccscccccccccccccccscccsscscscccccccscssccccccscscscsccccccccsccscccccsccccccssccsccccccccccsssccsccccscscccssccsscccccccccsccscsccccssccccccsccccccscsssccscccssccscccsssscccsccsssssccsscccccsccccccsccccsscssccccccscscsccsccscccsccscsccsccccccsccscsccccsccccscccccscscccccscsccccccccsccccccccccscccccscscccccsccccccccccccccccccscsscsscscccccccsccsccscccsscssccsscccccccccccccscsccssccccccccccccsscccccsccscccccccscccccccccccscccccsccccccccscccssscssccccccsccccccscscsccccsscsscscscccccccccscccscsccccsccsccscccccccsccsccssccccccssccccsscccccccscsscscsccccccsscccccccscscscscscccscssscscscccccccscccccscccscscscccccccssscccscccccscccccccscccccccscscsscscsccccssccsscccccscscsscscccccccccccccscsscsccccccccccscccsscccsccscscscsccscssccccccccccsccccccsssscccccssccccscscscscscsssccccsccsccccsccsscccccccccssccssscscsccccsssccccccsccsscsscsscscccccccsccccccssscsccccccccsccssscccccccssccccccsccscccccsccscscccccssccccscsccccccccccccccccccccccccsccsscsssccscscssccsscccccccccsscccscssccccscsscccsscssscsscccssccccccccccsscccccscsccccccccsccccssscscscssscccscscccccssccccccccsccsscscsccscccccsccccccscssccscsssccccscccscsccccscscscssssscccccccssccccccccscccccsccsccsccsscccccsssscsccscccscssccccccsccscscccccccccccccccccccccccscscsscccccccccccccccsscccccsccscscsscsssccsccccsccccscccccscscccccscsccccsccccccccscccsccccscccccccsccccssccscccscssccccccsccscccccssssccscscccccscccccccccccccssccsccscccccccsccccsscccscccccccccscccccsscsssscssscccsccsccccsccccsscccscccccccccscccccccccsscscccscccccsscccccsscscscccccscscsccccccscccccscccccscccsscccccccccccccccccsscccscccccccsccccccccccccccccscccscsscsccccccccscsccccscccccsccccccscscsssccsscscccccccscsccccccccccccscccccsccsscccccsscsccccccsccccccscsccccccccccsccccccscsscccccccccccccccccccscsccccsccccccscssccccscccscccsccccscsscccccscccccscsccccccsscscccccccccccccccccscccsccsccscccccccccccscccccccsccccccccccccccscccccccccscsccscssccccccccsccccccscssccccsscccccscccccscscccsscccccscsccccsccccsccccccscsccsccccssccccscccscccccccscccccccccccccsccccsccccsscsccsscccccssccccccccsccccccscccscscsccssssccsccsccccccscscccccsscssccccccccssccccscccscscsscccccssccccccccccsccccccccccccscccssccccccscscscccscccccccccccccscssccccccsccsscccssscccccsscscsscccccccsccccccccccccscccccccccccscccccccccccscccccccssccccscccccccccsccccsccsccccccccscccsccccccccccccccccccccscccccccccccscccccccscccccsscsccccccccccccccccsssssccsccccccsssccccsccccscccccccccccccssscscccccccsscsccssssscccsccccsccscssscccscscccssssssccccscccscccccssssccsscsccccccccccsccccccccsssssscccccccscscsccccsccccccccscscccccccccccssccscccscccccccsccccscccccccsccscsscccscccssccccccccccscscccccccscccscccccscccscscscscscccccccccsscccccscccccscccssccccscccscccccccccccccscscsccccsccccsccccccccccscccscccccccccscccccccccccccccccccscccscccccscccccccsccccccssccccccscccsccccsccscccsscccscccsccccsscccccscscccscccccccccccscccsccsccscscsscscccsscscccccsccscsccsscccccccccccccsccsccccscccscccsccsccsccccscsccccccssccsccsccccccccsscccccccccccscccccsccscscccscssccccscccscccccsccscccccccssscccccccccccccscssccccccccsccscccscccscccccccccccccssssccsscsscccccsccsccccccccccccccccccccccccccccscccccscccccccssccccccccsccsccccccccssccssccccccccccccsccsscccccccccsccccccccccccscsscccccscccsccccccccssccscccccccsccccccscscsscccccccccccccccccccccscccccsccsccccsscsccccccccccccccssccsccsssccccccccccsscccssssccccccccccscccccccccsccsscsscccccccccccsccsscsscccscccccccccsccccccccccccccsccccscsccccccccccsccscscccccccccscscscccssccccccccsccccccccccccsccccccccscccccsccccccscscssccsccsscsccccsccccscccsscscccssccccccscccccsscsccccccccscssccscssscccssccscccsccccsccccccccsccccccccsccccscccccccccscccssccccccccscccccccscccccccscsccccscccccccccscccccscscscscccccccscssccccccccsssss"
        inkscape:connector-curvature="0"
@@ -9353,17 +9353,17 @@
      inkscape:groupmode="layer"
      id="g5479"
      inkscape:label="Leo"
-     style="display:none"
+     style="display:inline"
      transform="translate(0,70.866146)">
     <image
        sodipodi:absref="C:\git-repos\brygg\apal\etikett\bildebobler\leo.png"
        xlink:href="bildebobler\leo.png"
-       width="115.01958"
-       height="113.71089"
-       preserveAspectRatio="none"
-       id="image5493"
+       y="131.53154"
        x="490.68985"
-       y="131.53154" />
+       id="image5493"
+       preserveAspectRatio="none"
+       height="113.71089"
+       width="115.01958" />
     <path
        inkscape:connector-curvature="0"
        id="path5534"
@@ -9378,13 +9378,13 @@
     <image
        sodipodi:absref="C:\git-repos\brygg\apal\etikett\bildebobler\nora.png"
        xlink:href="bildebobler\nora.png"
-       style="display:inline"
-       y="199.2845"
-       x="492.67697"
-       id="image5504"
-       preserveAspectRatio="none"
+       width="117.55122"
        height="115.93725"
-       width="117.55122" />
+       preserveAspectRatio="none"
+       id="image5504"
+       x="492.67697"
+       y="199.2845"
+       style="display:inline" />
     <path
        inkscape:connector-curvature="0"
        id="path5544"
@@ -9410,13 +9410,13 @@
     <image
        sodipodi:absref="C:\git-repos\brygg\apal\etikett\bildebobler\heidi.png"
        xlink:href="bildebobler\heidi.png"
-       y="130.88199"
-       x="502.45197"
-       id="image3457"
-       style="display:inline;image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
+       width="99.415405"
        height="115.00998"
-       width="99.415405" />
+       preserveAspectRatio="none"
+       style="display:inline;image-rendering:optimizeQuality"
+       id="image3457"
+       x="502.45197"
+       y="130.88199" />
   </g>
   <g
      transform="translate(0,70.866146)"
@@ -9427,13 +9427,13 @@
     <image
        sodipodi:absref="C:\git-repos\brygg\apal\etikett\bildebobler\johan.png"
        xlink:href="bildebobler\johan.png"
-       y="128.70781"
-       x="484.86774"
-       id="image4215"
-       style="image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
+       width="126.76277"
        height="117.11865"
-       width="126.76277" />
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image4215"
+       x="484.86774"
+       y="128.70781" />
     <g
        id="g5942"
        style="fill:#ffffff"
@@ -9470,13 +9470,13 @@
     <image
        sodipodi:absref="C:\git-repos\brygg\apal\etikett\bildebobler\katinka.png"
        xlink:href="bildebobler\katinka.png"
-       width="132.11082"
-       height="120.16837"
-       preserveAspectRatio="none"
-       style="display:inline;opacity:1;image-rendering:optimizeQuality"
-       id="image3479"
+       y="127.38271"
        x="480.85602"
-       y="127.38271" />
+       id="image3479"
+       style="display:inline;opacity:1;image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="120.16837"
+       width="132.11082" />
     <path
        inkscape:connector-curvature="0"
        id="path8553"
