@@ -15,7 +15,10 @@
    id="svg5914"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="åpål_logo.svg">
+   sodipodi:docname="apal_logo.svg"
+   inkscape:export-filename="C:\git-repos\brygg\design\logo\alle_brygg\apal_logo.png"
+   inkscape:export-xdpi="291.71738"
+   inkscape:export-ydpi="291.71738">
   <defs
      id="defs5916" />
   <sodipodi:namedview
@@ -26,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6"
-     inkscape:cx="80.896934"
+     inkscape:cx="45.755588"
      inkscape:cy="-0.79873656"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -36,9 +39,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1176"
-     inkscape:window-x="1920"
-     inkscape:window-y="24"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata5919">
@@ -68,7 +71,7 @@
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <rect
-       style="display:inline;fill:#de8787;fill-opacity:1;stroke:none"
+       style="display:inline;fill:#ce574b;fill-opacity:1;stroke:none"
        id="rect3786"
        width="152.08334"
        height="24.333334"
