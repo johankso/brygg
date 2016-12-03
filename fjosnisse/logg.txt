@@ -24,3 +24,12 @@ Det plupper, temp ca 17.5*C.
 B+2: 2016-09-27
 -----------------------------------------------------------------
 Det plupper, temp ca 15.5*C. Tiltak for å stabilisere temperaturen vurderes.
+
+Flaskedag: 2016-10-16
+-----------------------------------------------------------------
+Mengde DME for Fjos: 163 gram (16 liter). 
+Tilsvarende sukkermengde: 163 * 0.679638637943016 = 111gram(i følge http://www.brewersfriend.com/beer-priming-calculator/)
+Væskemengde Fjosnisse: litt under 17 liter => 16 liter etter omstikking.
+
+Endelig mengde: 14liter pga mye grums og ugunstig overføring til omstikkingskar.
+FG: 1.021 => ABV 5.3%
