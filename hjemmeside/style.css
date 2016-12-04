@@ -8,14 +8,22 @@ color: white;
 font-family:'Open Sans', sans-serif;
 text-align: center;
 font-size:11pt;
+margin: 0 0 80px;
+}
+
+footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 80px;
+    width: 100%;
 }
 
 html {
-background-color: #8ae4fc;
-background-image: url(img/fred.svg);
+background-color: #ebebeb;
+background-image: url(img/fjosnisse.svg);
 background-repeat: no-repeat;
-background-attachment: fixed;
-background-size: 100% auto;
+background-size: 108% auto;
 }
 
 p{
@@ -42,6 +50,10 @@ a:hover {
 text-decoration: underline;
 }
 
+.wrapper {
+height:80%;
+
+}
 #logo {
 width:250px;
 position:relative;
@@ -50,6 +62,7 @@ margin-right:auto;
 margin-top:auto;
 margin-bottom:auto;
 }
+
 
 .menu {
 width:100%;
