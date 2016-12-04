@@ -23,6 +23,7 @@ html {
 background-color: #ebebeb;
 background-image: url(img/fjosnisse.svg);
 background-repeat: no-repeat;
+background-attachment: fixed;
 background-size: 108% auto;
 }
 
