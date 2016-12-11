@@ -35,3 +35,13 @@ Hypoteser som kan forklare ujevnhetene ved de to gjeldende bryggene:
 - Høyt syrenivå i cideren kan ha pushet gjæren i utagangspunktet har vært helt på grensen av hva den tåler, slik at små forskjeller i pH i de ulike flaskene kan ha drept gjæren. Dette forklarer ikke ujevnheter i Fjosnisse, men foreløpig har vi ikke signifikant data for å konkludere med at Fjosnisse også lider med ujevn karbonering.
 - Dårlige kapsler. Røde kaplser ble også brukt til Jolebrygg. Problemer med tettheten til kapslene fører naturlig nok til dårlig kullsyrenivå.
 - Ujevn kapsling. Det ble observert ujevn kapsling på noen av flaskene ved flasking, og det er antydning til forskjell i hvor sikkert kapselmaskinene monterer korkene. Jolebrygg ble antakeligvis ikke flasket med samme kapselmaskin som de to gjeldende bryggene, og det ses derfor som noe usannsynlig at dette er problemet.
+
+B+7: 2016-12-11
+--------------------------------------------------
+På morgenen den 5. desember ble det observert samme situasjon som ved gjæring av Fred: vørter og gjær hadde est ut og presset seg gjennom gjærlåsen, og tettet denne. Det ble fjernet endel væske og skum med StarSan-behandlet øse, og lokk og gjærlås ble vasket og desinfisert på nytt før tilbakemontasje. 
+
+Denne hendelsen gjentok seg etter arbeidstid den 5. desember, og tilsvarende prosedyre som forrige gang ble iverksatt. Denne gangen ble enda mer væske fjernet, slik at det nå var rundt 23.5 liter vørter igjen i hvert kar.
+
+Morgenen etter, den 6. desember, stod vi igjen i samme situasjon. Igjen ble vørter/gjærgris renset og lokk og gjærlås desinfisert, og ca 1.5 liter vørter/skum fjernet i hvert kar. Det er nå 22 liter i hvert kar.
+
+Etter opplesning på databladet til gjæren vi brukte (WLP Belgian Ale), ble brygger Knut gjort oppmerksom på at optimal gjæringstemp. mellom 68 og 78 Fahrenheit, eller 20-26 grader for oss som lever etter "Système international d'unités". Til nå har gjæringen foregått omtrent ved 18 grader (noen ganger litt over 19). Selv om dette er under optimal temperatur anses ikke som alt for kaldt, da temperaturen i stormgjæringen antakeligvis er rundt 1 grad varmere i karet enn i rommet pga. varme fra gjæringsprosessen. Nå som stormgjæringen er over ble det likevel besluttet å la temperaturen stige gradvis oppover de nærmeste dagene (vanlig taktikk med en slik temperaturkurve). Termostaten ble derfor økt med ca 1-1.5 grad i dag. I morgen gjentas denne prosedyren, slik at romtemperaturen gradvis nærmer seg 20. 
