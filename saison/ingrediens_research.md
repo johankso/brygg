@@ -56,3 +56,6 @@ Som nevnt, det viktigste for Saisonen. Likevel mye frihet i valg av gjærtype.
 [[2] Saison Du Mont (ABV 6.3%, IBU 21) @ homebrewersassociation.org](https://www.homebrewersassociation.org/homebrew-recipe/beer-recipe-of-the-week-saison-du-mont/)
 
 [[3] Mike's Belgian Saison (ABV 7.1%, IBU ukjent) @ homebrewersassociation.org)](https://www.homebrewersassociation.org/homebrew-recipe/mikes-belgian-saison/)
+
+
+[[4] Esquire Saison](http://www.esquire.com/food-drink/drinks/a28505/saison-everything-you-need-to-know/)
