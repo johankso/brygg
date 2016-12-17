@@ -1,0 +1,47 @@
+B-day: 2016-12-03
+--------------------------------------------
+Og vi er i gang! Meskekaret står til varming med 44 liter vann, til 75 grader. Kokekaret står til varming med 48 liter vann. Den observante leser vil nå bli forvirret, for vi har jo ikke kunnet bruke både kokekaret og meskekaret samtidig før. Dette lar seg nå gjøre, da brygger Knut har laget en overgang fra komfyrstikk til vanlig stikk. Svit!
+
+Listen av eventualiteter har allerede vokst:
+- Brygger Knut fant helt impulsivt ut at han skulle veie maltsekken. Det viste seg at den veide 11 kg, men den skulle egentlig ha veid 17 kg. Dermed ble det svipptur til Brewshop for å reklamere. De satte opp en ny sekk til oss på stående fot. Ellevekilossekken fikk vi beholde, da ingen aner hva den inneholder og de dermed ikke kan selge den. Vi satser på å bruke den til et mysteriumsbrygg i fremtiden.
+- Kontrollpanelet sluttet plutselig å virke. Litt feilsøking avslørte at det skyldtes en mekanisk feil i hovedbryteren. Heldigvis hadde vi reservebryter, så nedetiden var bare på snaue ti minutter.
+- Det skjedde en ulykke under et uoppmerksomt øyeblikk under koking av vørter. Det ble antatt for tidlig at stasjonær løsning var nådd, og tilstedeværende bryggere trakk inn i stua for å avlaste ryggene. Det de ikke visste var at det kokte over og at slangen fra pumpa ramla ut og ned på gulvet. Innen det ble oppdaget rakk det å bli pumpet ca 5 liter kokende vann utover gulvet. Det ble iverksatt nødprosedyrer med en gang, slik at skadene ble begrenset. Det ser ut til å ha gått bra med gulv og vegger. Volum etter kok ble dermed noe mindre enn planlagt, og det var dermed nok med to gjæringskar i stedet for tre.
+
+
+B+1: 2016-12-04
+--------------------------------------------
+Detaljer vi glemte å logge i går:
+- OG på Saison var 1.060. Oppskriften skulle gi 1.058, så vi er ikke veldig skuffet over dette resultatet - bare veldig. Det har nemlig gått sport i å være dyktige og heldige i å treffe på OG.
+- Gjæringstemperatur ble bestemt til være 18 grader. Gjæringsdunken ble plassert inn på gjesterommet i Odins veg, hvor det var omlag 20 grader ved forflytningstidspunktet.
+- Det ble valgt å fjerne ca 3 liter vørter fra gjæringskarene (klok av skade etter overfyllingen av kar under brygging av Fred). Dette ble fordelt mellom bryggerne for å brukes som base for gjærbakst.
+
+Temperaturen på morgenen var 19 grader, men med litt finjustering på termostaten på panelovnen på gjesterommet stabiliserte den seg på 18 grader ut over dagen. Det er god aktivitet i begge gjærlåsene.
+
+
+B+2: 2016-12-05
+--------------------------------------------
+Det plupper enda mer i gjærlåsene, og temperaturen har ligget stabilt rundt 18-19 grader. Mengden brygg i de to gjæringskarene virker veldig passe, da gjærranden som nå har etablert seg ligger med god og passe sikkerhetsmargin unna lokket. Det noteres at volumet ikke ble notert på bryggedagen, og at dette var ca. 25 liter i hvert kar.
+
+Kommentarer angående kullsyrenivå på Åpål og Fjosnisse:
+- Under smaking ble Åpålflasker med både for mye og for lite kullsyre observert: stor variasjon preger batchen. En flaske nærmest uten kullsyre ble åpnet av bryggere Heidi og Knut i går.
+- Noe variasjon på Fjosnisse ble også observert, men i mindre grad enn for Åpål, under smakingen av brygget. I går ble en flaske med for mye kullsyre åpnet av brygger Johan.
+
+Eneste batch vi har hatt slike problemer med før er Jolebrygg. Da konkluderte vi med at det skyldtes enten for dårlig innblanding av karboneringssukker under flasking eller urene flasker. Vi iverksatte følgende tiltak ved brygging/flasking av Hoppla og Fred for å unngå tilsvarende problemer:
+- Grundig flaskevask før desinfisering, med varmt vann og flaskebørste. Tidligere har vi sluppet unna med å skylle godt rett etter tømming av flaskene ved konsum.
+- Tilsetting av karboneringssukker først i gjæringskar, for deretter å tilsette brygget. Dette skal føre til homogen tetthet av sukker.
+
+Hypoteser som kan forklare ujevnhetene ved de to gjeldende bryggene:
+- Flaskevasknøyaktigheten har nok avtatt noe, og urenheter i flaskene kan være skyld i ujevn karbonering.
+- Høyt syrenivå i cideren kan ha pushet gjæren i utagangspunktet har vært helt på grensen av hva den tåler, slik at små forskjeller i pH i de ulike flaskene kan ha drept gjæren. Dette forklarer ikke ujevnheter i Fjosnisse, men foreløpig har vi ikke signifikant data for å konkludere med at Fjosnisse også lider med ujevn karbonering.
+- Dårlige kapsler. Røde kaplser ble også brukt til Jolebrygg. Problemer med tettheten til kapslene fører naturlig nok til dårlig kullsyrenivå.
+- Ujevn kapsling. Det ble observert ujevn kapsling på noen av flaskene ved flasking, og det er antydning til forskjell i hvor sikkert kapselmaskinene monterer korkene. Jolebrygg ble antakeligvis ikke flasket med samme kapselmaskin som de to gjeldende bryggene, og det ses derfor som noe usannsynlig at dette er problemet.
+
+B+7: 2016-12-11
+--------------------------------------------------
+På morgenen den 5. desember ble det observert samme situasjon som ved gjæring av Fred: vørter og gjær hadde est ut og presset seg gjennom gjærlåsen, og tettet denne. Det ble fjernet endel væske og skum med StarSan-behandlet øse, og lokk og gjærlås ble vasket og desinfisert på nytt før tilbakemontasje. 
+
+Denne hendelsen gjentok seg etter arbeidstid den 5. desember, og tilsvarende prosedyre som forrige gang ble iverksatt. Denne gangen ble enda mer væske fjernet, slik at det nå var rundt 23.5 liter vørter igjen i hvert kar.
+
+Morgenen etter, den 6. desember, stod vi igjen i samme situasjon. Igjen ble vørter/gjærgris renset og lokk og gjærlås desinfisert, og ca 1.5 liter vørter/skum fjernet i hvert kar. Det er nå 22 liter i hvert kar.
+
+Etter opplesning på databladet til gjæren vi brukte (WLP Belgian Ale), ble brygger Knut gjort oppmerksom på at optimal gjæringstemp. mellom 68 og 78 Fahrenheit, eller 20-26 grader for oss som lever etter "Système international d'unités". Til nå har gjæringen foregått omtrent ved 18 grader (noen ganger litt over 19). Selv om dette er under optimal temperatur anses ikke som alt for kaldt, da temperaturen i stormgjæringen antakeligvis er rundt 1 grad varmere i karet enn i rommet pga. varme fra gjæringsprosessen. Nå som stormgjæringen er over ble det likevel besluttet å la temperaturen stige gradvis oppover de nærmeste dagene (vanlig taktikk med en slik temperaturkurve). Termostaten ble derfor økt med ca 1-1.5 grad i dag. I morgen gjentas denne prosedyren, slik at romtemperaturen gradvis nærmer seg 20. 
