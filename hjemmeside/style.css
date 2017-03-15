@@ -11,6 +11,11 @@ font-size:11pt;
 margin: 0 0 80px;
 }
 
+ul{
+	margin: 0 0 1em 2em;
+}
+
+
 footer {
     position: absolute;
     left: 0;
@@ -20,8 +25,8 @@ footer {
 }
 
 html {
-background-color: #ebebeb;
-background-image: url(img/fjosnisse.svg);
+background-color: #8ae4fc;
+background-image: url(img/fred.svg);
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-size: 108% auto;
