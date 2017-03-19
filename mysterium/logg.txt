@@ -20,3 +20,14 @@ OG etter kok: 1.053. OK.
 20 L på hvert kar (to stk), satt på gjesterommet på 18-20*C.
 
 Svit!
+
+
+2017-03-15: Tørrhumling
+-----------------------------------------------------------------
+I dag har mysteriumsbrygget gjæret i 11 dager. Temperaturen i rommet har variert mellom 17.5 grader og korte perioder med opptil 21.5 når sola varmet mest og vinduet var lukket. Det har kontinuerlig vært igangsatt tiltak ved avvik fra måltemperaturen på 19 grader.
+
+Det ble i dag bestemt at det var på tide med tørrhumling, og brygger Knut tok på seg oppgaven. 50 g Samcoehumle ble tilsatt i hver sin humlepose med stålkuler (begge deler ble nedsenket en stund i kokende vann for desinfisering). Det noteres for fremtiden at det frarådes å sniffe kraftig nedi gjæringskarene rett etter åpning - det vil i så fall trolig resultere i en intens og stikkende fornemmelse i neseregionen.
+
+SG ble målt til 1.025 med refraktometer. Første måling ble gjort rett med kjellerkaldt måleinstrument (~1.0265), og det ble vurdert formålstjenlig å la det temperere seg før den endelige målingen ble gjort. Ved en FG på 1.025 ender ølet med en ABV på 3.9%. Det ble gjort et søk om bruk av refraktometre, noe som gjorde oss vakthavende brygger oppmerksom på at refraktometeravlesninger må korrigeres for alkoholinnhold - de leser ikke rett tetthet etter gjæringen har startet. Det ble også observert at generell anbefalning er å bruke Brix-skalaen på refraktometrene, uten at det ble gjort noen videre undersøkelse om grunnen. Refraktometeret viste SG 6.3 %Brix. OG anslås til omlag 13.2 %Brix. Dette resulterer i følge https://www.northernbrewer.com/learn/resources/refractometer-calculator/ en SG på nåværende tidspunkt på 1.019, som igjen vil si at alkoholinnholdet på nåværende tidspunkt ligger rundt 4.7% (og ikke 3.9%!). Note to __self__ (og __init__)!
+
+Brewer out.
