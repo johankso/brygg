@@ -30,11 +30,11 @@ footer {
 }
 
 html {
-background-color: #8ae4fc;
-background-image: url(img/fred.svg);
+background-color: black;
+background-image: url(img/bakgrunn.jpg);
 background-repeat: no-repeat;
 background-attachment: fixed;
-background-size: 108% auto;
+background-size: cover;
 }
 
 p{
@@ -150,13 +150,13 @@ padding-top: 1px;
 	top:0;
 	}
 
-	html {
+	/*html {
 		background-size: 200% auto;
-	}
+	}*/
 
 }
 
-@media screen and (-webkit-device-pixel-ratio: 2)  {
+/*@media screen and (-webkit-device-pixel-ratio: 2)  {
 	html{
 		background-size:200% auto;
-	}}
+	}}*/
