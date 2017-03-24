@@ -35,4 +35,5 @@ Brewer out.
 
 2017-03-24: Måling med refraktometer dagen før flasking.
 -----------------------------------------------------------------
-SG (og OG (pun intended!)) ble målt til 6.5 %Brix. Refraktometerberegningsverktøyet på disse linkene (https://www.brewersfriend.com/refractometer-calculator/, https://www.brewtoad.com/tools/alcohol-calculator) ble brukt til å beregne ABV. OG Brix: 13.2, FG Brix: 6.5 %Brix. Det tilsvarer OG på 1.053 og FG på 1.009. Med en vørterkorrigeringsfaktor på 1 impliserer dette en ABV på 5.8%.
+SG (og OG (pun intended!)) ble målt til 6.5 %Brix. Refraktometerberegningsverktøyet på disse linkene (https://www.brewersfriend.com/refractometer-calculator/, https://www.brewtoad.com/tools/alcohol-calculator) ble brukt til å beregne ABV. OG Brix: 13.2, FG Brix: 6.5 %Brix. Det tilsvarer OG på 1.053 og FG på 1.009. Med en vørterkorrigeringsfaktor på 1 impliserer dette en ABV på 5.8%. IBU ble beregnet til
+58 (https://www.brewersfriend.com/ibu-calculator/).
