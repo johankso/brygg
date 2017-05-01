@@ -1,11 +1,25 @@
-2017-03-04: Bryggedag og Marie sin gjebursdag!
+2017-04-30: Bryggedag IPA forsøk 2
 -----------------------------------------------------------------
+Måltemp på strikevann: 73*C
+Mengde strikevann: 47.5 L
 
-Initielt strikevann: 61l
-Initielt spargevann: 31l
+Gjestebrygger: Topher Sikora
 
-Måltemp på strikevann: 72*C
-Mesketemperatur: 64*C og 72*C
-Utmesktemperatur: 77 *C
+Tempmål før tilsetting 75*C (feil på sensor anslått til +1.5, dvs reellt 73.5*C). Etter tilsetting 69*C (feil på sensor +1.5, dvs. 67.5 reellt)
 
-Planlagt mengde strikevann var 75 L. Det viste seg å bli for mye for karet, vi ville ikke fått plass til malten. Dette ble derfor nedjustert til 61 L. Både kokekar og meskekar ble brukt til å varme vann. Brygger Knut prøvde å modifisere på kontrollpanelet. Foreløpig er det uten hell. 
+Dekanteringen av starteren var vanskelig da gjæren og vørteren ikke hadde skilt seg skikkelig. Tanken om å bruke starter på ett kar og 3 pakker gjær på den andre, ble derfor forkastet. 3 pakker gjær på begge to karene blir resultatet.
+
+Siden dette ølet har en høy OG er mengden spargevann veldig liten, og alt for lav til at vi kunne bruke det andre karet til oppvarming av spargevann. Det ble derfor brukt vannkokermetodikk (15 liter spargevann).
+
+Pga. brenning på meskelementet under forrige forsøk på IPA-brygging, var vi denne gangen veldig påpasselige med forholdene i nærheten av elementet. Under første forsøk av IPAen ble mengden malt for stor (stor batch og høyt sukkerinnhold => mye malt) og vi nedskalerte derfor oppskriften denne gangen for å unngå nettopp dette. Følgende konklusjon etter meskingen kan trekkes:
+
+* 47.5 liter strikevann + 15.2kg malt går bra i karet med elementet lengst nede. *
+
+ Brix fra første mesk (ikke skylt): 19.4% (~25 liter)
+ Brix fra andre (skylling): 11.2% (~18 liter)
+ Brix før kok (sum): 15.6%
+ Brix etter kok: 17.6%
+
+Ønsket volum før kok var 50 liter. Som vist over var utbyttet fra meskingen bare omlag 43 liter (7 liter mindre enn målet). Det noteres derfor at vi bør øke antatt volumtap i meskeprosessen. Ønsket volum etter kok var 40 liter, men vi endte opp på 35.5 liter. Dermed er totaltapet ca 5 liter større enn antatt. Koketap er nå antatt som 5 liter + 5 liter per time. Dagens utbytte antyder at 5 liter per time + 3 liter er mer passende koketap. Konstanttap i meskingen bør også tas med i regnestykket for meskingen, noe som ikke er tilfellet nå (kun absorbsjon). Kan legge til 5 liter tap ekstra ca.
+
+Endelig mengde på gjæringskar: 17+18.5 liter = 35.5 liter.
