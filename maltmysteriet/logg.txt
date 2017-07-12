@@ -37,3 +37,7 @@ Brewer out.
 -----------------------------------------------------------------
 SG (og OG (pun intended!)) ble målt til 6.5 %Brix. Refraktometerberegningsverktøyet på disse linkene (https://www.brewersfriend.com/refractometer-calculator/, https://www.brewtoad.com/tools/alcohol-calculator) ble brukt til å beregne ABV. OG Brix: 13.2, FG Brix: 6.5 %Brix. Det tilsvarer OG på 1.053 og FG på 1.009. Med en vørterkorrigeringsfaktor på 1 impliserer dette en ABV på 5.8%. IBU ble beregnet til
 58 (https://www.brewersfriend.com/ibu-calculator/).
+
+2017-04-30: Akademisk smaking
+-----------------------------------------------------------------
+En flaske be smaket på for å kjenne på hvordan smaken endrer seg underveis i flaska. Det var dermed kun av akedemiske årsaker, og ølet ble ikke nytt på noen måte. Smaken var særdeles god, det var konsensus at dette blir et suksessøl. Det var fuzzy og mildt. Deilig. 

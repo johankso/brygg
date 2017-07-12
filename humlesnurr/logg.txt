@@ -1,0 +1,59 @@
+2017-04-30: Bryggedag IPA forsøk 2
+-----------------------------------------------------------------
+Måltemp på strikevann: 73*C
+Mengde strikevann: 47.5 L
+
+Gjestebrygger: Topher Sikora
+
+Tempmål før tilsetting 75*C (feil på sensor anslått til +1.5, dvs reellt 73.5*C). Etter tilsetting 69*C (feil på sensor +1.5, dvs. 67.5 reellt)
+
+Dekanteringen av starteren var vanskelig da gjæren og vørteren ikke hadde skilt seg skikkelig. Tanken om å bruke starter på ett kar og 3 pakker gjær på den andre, ble derfor forkastet. 3 pakker gjær på begge to karene blir resultatet.
+
+Siden dette ølet har en høy OG er mengden spargevann veldig liten, og alt for lav til at vi kunne bruke det andre karet til oppvarming av spargevann. Det ble derfor brukt vannkokermetodikk (15 liter spargevann).
+
+Pga. brenning på meskelementet under forrige forsøk på IPA-brygging, var vi denne gangen veldig påpasselige med forholdene i nærheten av elementet. Under første forsøk av IPAen ble mengden malt for stor (stor batch og høyt sukkerinnhold => mye malt) og vi nedskalerte derfor oppskriften denne gangen for å unngå nettopp dette. Følgende konklusjon etter meskingen kan trekkes:
+
+* 47.5 liter strikevann + 15.2kg malt går bra i karet med elementet lengst nede. *
+
+ Brix fra første mesk (ikke skylt): 19.4% (~25 liter)
+ Brix fra andre (skylling): 11.2% (~18 liter)
+ Brix før kok (sum): 15.6%
+ Brix etter kok: 17.6%
+
+Ønsket volum før kok var 50 liter. Som vist over var utbyttet fra meskingen bare omlag 43 liter (7 liter mindre enn målet). Det noteres derfor at vi bør øke antatt volumtap i meskeprosessen. Ønsket volum etter kok var 40 liter, men vi endte opp på 35.5 liter. Dermed er totaltapet ca 5 liter større enn antatt. Koketap er nå antatt som 5 liter + 5 liter per time. Dagens utbytte antyder at 5 liter per time + 3 liter er mer passende koketap. Konstanttap i meskingen bør også tas med i regnestykket for meskingen, noe som ikke er tilfellet nå (kun absorbsjon). Kan legge til 5 liter tap ekstra ca.
+
+Endelig mengde på gjæringskar: 17+18.5 liter = 35.5 liter.
+
+
+2017-05-21: Tørrhumling
+-----------------------------------------------------------------
+Etter 3 uker gjæring og Italiatur og Hans Zimmer-konsert for Kirkestuen Kvåles var det på tide med tørrhumling. Brygger Knut tok ansvaret for prosessen. Originalt var det tiltenkt 100g Simcoe og 100g Cascade-humling til dette, som skulle matche en batchstørrelse på 40 liter. Reell batchstørreslse er 35.5 liter (17 + 18.5 liter) vil denne mengden muligens medføre noe kraftigere aroma enn tiltenkt. Da tørrhumlingen også vil foregå over en kortere periode enn originalt tiltenkt, regner vakthavende brygger med at dette går omtrent opp i opp. Fordelingen i karene blir som følger for hver humle type:
+
+18-og-en-halv-liters-kar: 18.5 / 35.5 * 100 = 52.1 g
+17-liters-kar: 17 / 35.5 * 100 = 47.9 g
+
+Smaking og Brix-måling:
+18-og-en-halv-liters-kar: 8%/9% (usikker måling - endring i temperatur på måleutstyr?) Brix, smaker ganske clean og godt. Mangler fruktighet, men det fikser vel tørrhumlinga.
+17-liters-kar: 9.1%. Smaker også clean og godt (anelse mer alkoholsmak? dårlig overensstemmelse med avlesning av Brixverdi)
+
+Obs! Kun to humleposer igjen i beholdningen!
+
+
+2017-05-25: Flaskedag
+----------------------------------------------------------------------
+På tide med flasking. Knut er vakthavende brygger.
+
+Mål, CO2-mengde er "2.4 volumes". Sukkermengder følger under (https://www.brewersfriend.com/beer-priming-calculator/).
+17-liters kar (antar 16 liter på flaske/omstikkingskar): 98.5 g sukker
+18.5-liters kar (antar 17.5 liter på flaske/omstikkingskar): 107.7 g sukker
+
+Brixmålinger følger under.
+17-liters kar: 9.1%
+18.5-liters kar: 9.05%
+
+Eventualitet under flasking av første kar (17 l):
+Sukkerlake ble tilsatt omstikkingskaret og ølet overført fra gjæringsdunk til omstikkingskar. Vakthavende brygger glemte røringen. Smaking underveis avslørte at sukkerinnholdet var vesentlig høyere på slutten av flaskingen enn på starten. Det ble derfor bestemt å helle tilbake innholdet i alle flaskene i omstikkingskaret, inkludert de som allerede var korket. Flaskene ble ikke vasket eller desinfisert før ny påfylling. Den største risikoen vurderes å være eventuell unødvendig oksidering. For å skille disse flaskene fra de fra det neste karet ble det bestemt at de skulle få special edition-korker i gull. Flaskene fra det neste karet fikk lyseblå.
+
+Smaksnotater:
+Litt som en dobbel, kanskje mer det enn IPA. Ikke veldig bitter, men veldig godt.
+Tror det blir en braksuksess!
