@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="29.170017mm"
+   height="19.798151mm"
+   viewBox="0 0 29.170017 19.798151"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="Untappd check in.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="69.032837"
+     inkscape:cy="39.797084"
+     inkscape:document-units="mm"
+     inkscape:current-layer="svg8"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Duochrome"
+       id="filter2796">
+      <feColorMatrix
+         type="luminanceToAlpha"
+         result="colormatrix1"
+         id="feColorMatrix2776" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood1"
+         id="feFlood2778" />
+      <feComposite
+         in2="colormatrix1"
+         operator="out"
+         result="composite1"
+         id="feComposite2780" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         result="flood2"
+         id="feFlood2782" />
+      <feComposite
+         in2="colormatrix1"
+         result="composite2"
+         operator="in"
+         id="feComposite2784" />
+      <feComposite
+         k4="0"
+         k1="0"
+         in="composite2"
+         in2="composite1"
+         k2="1"
+         k3="1"
+         operator="arithmetic"
+         result="composite3"
+         id="feComposite2786" />
+      <feColorMatrix
+         in="composite3"
+         type="matrix"
+         values="2 -1 0 0 0 0 2 -1 0 0 -1 0 2 0 0 0 0 0 1 0 "
+         result="colormatrix2"
+         id="feColorMatrix2788" />
+      <feComposite
+         k4="0"
+         k3="0"
+         k1="0"
+         in="colormatrix2"
+         in2="composite3"
+         operator="arithmetic"
+         k2="1.47396"
+         result="composite4"
+         id="feComposite2790" />
+      <feBlend
+         in="composite4"
+         in2="composite3"
+         mode="normal"
+         result="blend"
+         id="feBlend2792" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite2794" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1"
+     transform="translate(26.177384,-138.82522)">
+    <g
+       transform="matrix(0.264583,0,0,0.264583,-24,148)"
+       style="fill:#000000"
+       id="barcode">
+      <rect
+         height="35"
+         width="1"
+         id="barcode_bar1"
+         y="0"
+         x="0" />
+      <rect
+         height="35"
+         width="1"
+         id="barcode_bar3"
+         y="0"
+         x="2" />
+      <rect
+         height="30"
+         width="1"
+         id="barcode_bar5"
+         y="0"
+         x="6" />
+      <rect
+         height="30"
+         width="2"
+         id="barcode_bar7"
+         y="0"
+         x="8" />
+      <rect
+         height="30"
+         width="1"
+         id="barcode_bar9"
+         y="0"
+         x="11" />
+      <rect
+         height="30"
+         width="2"
+         id="barcode_bar11"
+         y="0"
+         x="15" />
+      <rect
+         height="30"
+         width="2"
+         id="barcode_bar13"
+         y="0"
+         x="19" />
+      <rect
+         height="30"
+         width="1"
+         id="barcode_bar15"
+         y="0"
+         x="23" />
+      <rect
+         height="30"
+         width="2"
+         id="barcode_bar17"
+         y="0"
+         x="26" />
+      <rect
+         height="30"
+         width="1"
+         id="barcode_bar19"
+         y="0"
+         x="30" />
+      <rect
+         height="30"
+         width="2"
+         id="barcode_bar21"
+         y="0"
+         x="34" />
+      <rect
+         height="30"
+         width="1"
+         id="barcode_bar23"
+         y="0"
+         x="37" />
+      <rect
+         height="30"
+         width="2"
+         id="barcode_bar25"
+         y="0"
+         x="39" />
+      <rect
+         height="30"
+         width="1"
+         id="barcode_bar27"
+         y="0"
+         x="44" />
+      <rect
+         height="35"
+         width="1"
+         id="barcode_bar29"
+         y="0"
+         x="46" />
+      <rect
+         height="35"
+         width="1"
+         id="barcode_bar31"
+         y="0"
+         x="48" />
+      <rect
+         height="30"
+         width="3"
+         id="barcode_bar33"
+         y="0"
+         x="50" />
+      <rect
+         height="30"
+         width="1"
+         id="barcode_bar35"
+         y="0"
+         x="55" />
+      <rect
+         height="30"
+         width="3"
+         id="barcode_bar37"
+         y="0"
+         x="57" />
+      <rect
+         height="30"
+         width="1"
+         id="barcode_bar39"
+         y="0"
+         x="61" />
+      <rect
+         height="30"
+         width="2"
+         id="barcode_bar41"
+         y="0"
+         x="64" />
+      <rect
+         height="30"
+         width="2"
+         id="barcode_bar43"
+         y="0"
+         x="68" />
+      <rect
+         height="30"
+         width="1"
+         id="barcode_bar45"
+         y="0"
+         x="71" />
+      <rect
+         height="30"
+         width="3"
+         id="barcode_bar47"
+         y="0"
+         x="73" />
+      <rect
+         height="30"
+         width="1"
+         id="barcode_bar49"
+         y="0"
+         x="78" />
+      <rect
+         height="30"
+         width="1"
+         id="barcode_bar51"
+         y="0"
+         x="82" />
+      <rect
+         height="30"
+         width="1"
+         id="barcode_bar53"
+         y="0"
+         x="85" />
+      <rect
+         height="30"
+         width="1"
+         id="barcode_bar55"
+         y="0"
+         x="90" />
+      <rect
+         height="35"
+         width="1"
+         id="barcode_bar57"
+         y="0"
+         x="92" />
+      <rect
+         height="35"
+         width="1"
+         id="barcode_bar59"
+         y="0"
+         x="94" />
+      <text
+         id="barcode_text"
+         xml:space="preserve"
+         style="font-size:10px;text-align:center;text-anchor:middle"
+         y="40"
+         x="47">9   41105    09147   3</text>
+    </g>
+  </g>
+  <image
+     y="946.21674"
+     x="673.20251"
+     id="image8689"
+     preserveAspectRatio="none"
+     height="28.125034"
+     width="28.125034"
+     style="display:inline;fill:#000000;fill-opacity:0;stroke-width:33.14239883;filter:url(#filter2796)"
+     transform="matrix(0.2622837,0,0,0.26234932,-159.31144,-247.50146)"
+     xlink:href="C:\Users\knutankv\git-repos\brygg\philosophiale\etikett\knut\../johan/untappd-logo.jpeg"
+     sodipodi:absref="C:\Users\knutankv\git-repos\brygg\philosophiale\etikett\knut\../johan/untappd-logo.jpeg" />
+  <flowRoot
+     inkscape:export-ydpi="600"
+     inkscape:export-xdpi="600"
+     inkscape:export-filename="C:\Users\johankso\Documents\Brygg\hoppla\etikett\etikett_forslag_johan.png"
+     transform="matrix(0.43990532,0,0,0.49899316,13.055174,3.9729112)"
+     id="flowRoot8703"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Microsoft Uighur';-inkscape-font-specification:'Microsoft Uighur';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21711124;stroke-miterlimit:4;stroke-dasharray:none"
+     xml:space="preserve"><flowRegion
+       style="text-align:end;text-anchor:end;fill:#000000;stroke-width:0.21711124;stroke-miterlimit:4;stroke-dasharray:none"
+       id="flowRegion8693" /><flowPara
+       id="flowPara8701"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.83862257px;line-height:100%;font-family:'Tre Ingeniorer og En Sykepleier';-inkscape-font-specification:'Tre Ingeniorer og En Sykepleier';text-align:end;word-spacing:-0.02107795px;text-anchor:end;opacity:1;fill:#000000;stroke:#000000;stroke-width:0.21711124;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">UNTAPPD</flowPara><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.83862257px;line-height:100%;font-family:'Tre Ingeniorer og En Sykepleier';-inkscape-font-specification:'Tre Ingeniorer og En Sykepleier';text-align:end;word-spacing:-0.02107795px;text-anchor:end;opacity:1;fill:#000000;stroke:#000000;stroke-width:0.21711124;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="flowPara274">CHECK IN</flowPara></flowRoot></svg>
